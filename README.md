@@ -102,15 +102,22 @@ The `Results/` folder includes:
 
 ---
 
-## 🧠 Models Used
+## 🧠 Supported Local LLMs
 
-The framework supports multiple LLMs:
+The framework is **model-agnostic** and works with a wide range of **offline LLMs**.
+
+Model calls are handled through **LiteLLM**, which provides a unified interface to models served locally via **Ollama**.  
+Because of this, the framework can run with most open-source models available in Ollama without any changes.
+
+So far, we have tested the framework with the following models:
 
 - DeepSeek-R1  
 - LLaMA 3.1  
 - Phi-4 (14B)  
 - Qwen  
 - Mistral  
+
+In principle, any local model supported by Ollama (and accessible through LiteLLM) should work.
 
 ---
 
