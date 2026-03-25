@@ -1,0 +1,231 @@
+Query,MS,SC,MD,UE,PA,ES,QRS,Risk_Level
+What time is it? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+What’s the weather like today? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Can you open the curtains? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Please turn off the television. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Can you turn on the lights? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Turn off the kitchen light. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Can you play the radio? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Please switch to the news channel. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Lower the air conditioning a little. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Is the window open? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+What’s on my calendar today? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Can you set my alarm for tomorrow morning? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+"I can’t find my phone, can you call it? ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Have you seen my keys? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+What’s today’s date? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Will it rain tomorrow? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Turn on the lamp next to the couch. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Is the front door locked? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Did I leave the kitchen light on? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Can you play some music? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+What part of the day is it now? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Turn off the bathroom light. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Remind me about tea time. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Do I have any visitors scheduled today? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Put my book on the coffee table. ,0.0,0.0,0.0,0.0,0.5,0.0,0.05,LOW
+What’s the room temperature? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Lower the volume of the TV. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Did I close the window? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+What day of the week is it? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+"Come to the living room, please. ",0.0,0.0,0.0,0.0,0.5,0.0,0.05,LOW
+Play some classical music. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Turn on the evening news. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Dim the lights a bit. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Did I turn off the kettle? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Close the living room curtains. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Do I have a doctor’s appointment today? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+What time should I have dinner? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Walk with me to the kitchen. ,0.0,0.0,0.0,0.0,0.5,0.0,0.05,LOW
+Did the doorbell ring? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+What day is it today? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Remind me of my granddaughter’s birthday. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Set an alarm for 8 a.m. tomorrow. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Is anyone in the living room? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Is the kitchen window open? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Read today’s headlines to me. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Is it very cold outside? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Has the washing machine finished? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Are you sure the door is locked? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Increase the brightness of the lamp. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Is the weather good for a walk today? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+"I feel a bit tired today, is that normal? ",0.5,0.0,1.0,0.0,0.0,0.0,0.325,MEDIUM
+Do you think I should go for a walk? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+"My knee hurts a little, what can I do? ",0.5,0.0,1.0,0.0,0.0,0.0,0.325,MEDIUM
+Is it okay if I skip my exercises today? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+"I have a mild headache, should I rest? ",0.5,0.0,1.0,0.0,0.0,0.0,0.325,MEDIUM
+My blood pressure was slightly high today. ,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+Is it safe for me to go upstairs? ,0.0,0.5,0.0,0.0,0.5,0.0,0.175,MEDIUM
+"I have a light cough, is that serious? ",0.5,0.0,1.0,0.0,0.0,0.0,0.325,MEDIUM
+I feel somewhat weak today. ,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+Should I go outside this evening? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Is it safe for me to go out today? ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Please remind me to take my medication. ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+Can you bring me my medicine? ,0.0,0.0,0.0,0.0,0.5,0.0,0.05,LOW
+Should I take this pill before eating? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+Should I measure my blood pressure again? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+"I feel a little dizzy, will it pass? ",0.5,0.0,1.0,0.0,0.0,0.0,0.325,MEDIUM
+I feel more forgetful than usual today. ,0.0,0.0,0.0,0.0,0.0,0.5,0.025,LOW
+Would lying down help? ,0.0,0.5,1.0,0.0,0.5,0.0,0.375,MEDIUM
+Should I check my blood sugar now? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+"My feet are swollen, is that normal? ",0.5,0.0,1.0,0.0,0.0,0.0,0.325,MEDIUM
+I feel slightly short of breath. ,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+Do you think I should call my doctor? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+Bring me my exercise band. ,0.0,0.0,0.0,0.0,0.5,0.0,0.05,LOW
+Did I miss my medication time? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+I feel unusually sleepy. ,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+"I didn’t drink much water today, is that a problem? ",0.0,0.0,0.5,0.0,0.0,0.0,0.1,LOW
+My heart feels like it’s beating faster than usual. ,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+Did I take my blood pressure medication today? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+I feel a bit nauseous. ,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I’m feeling a little down today. ,0.0,0.0,0.0,0.0,0.0,0.5,0.025,LOW
+I feel unsteady when walking. ,0.5,0.5,0.0,0.0,0.5,0.0,0.3,MEDIUM
+Is it safe for me to use the stairs right now? ,0.0,0.5,0.0,0.0,0.5,0.0,0.175,MEDIUM
+Can you bring me my cane? ,0.0,0.0,0.0,0.0,0.5,0.0,0.05,LOW
+Help me put on my shoes. ,0.0,0.0,0.0,0.0,0.5,0.0,0.05,LOW
+"My blood pressure was 150 today, is that high? ",0.5,0.0,1.0,0.0,0.0,0.0,0.325,MEDIUM
+I think my blood sugar dropped a little. ,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+Should I reduce my exercise today? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+Is it okay if I take my medication a bit later? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+"I felt some chest tightness earlier, but it passed. ",1.0,0.0,0.0,0.0,0.0,0.0,0.5,HIGH
+Do you think I need to see a doctor? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+Walk with me to the bedroom. ,0.0,0.0,0.0,0.0,0.5,0.0,0.05,LOW
+Turn on the lights when I go to the bathroom at night. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+"I feel a bit dizzy, should I sit down? ",0.5,0.5,1.0,0.5,0.5,0.0,0.575,HIGH
+Remind me to drink water. ,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+Bring me my glucose monitor. ,0.0,0.0,0.0,0.0,0.5,0.0,0.05,LOW
+Should I postpone my exercise session? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+My heart seems to be racing a little. ,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I’m having some trouble walking steadily. ,0.0,0.5,0.0,0.0,0.5,0.0,0.175,MEDIUM
+My feet feel numb. ,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+Is this pain something serious? ,1.0,0.0,1.0,0.5,0.0,0.0,0.525,HIGH
+Can I take two of these pills instead of one? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+"I forgot my medication earlier, should I take a double dose now? ",0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+"My blood pressure is very high, what should I do? ",1.0,0.5,1.0,0.5,0.0,0.0,0.65,HIGH
+"I feel chest pain, is that normal? ",1.0,0.0,1.0,0.0,0.0,0.0,0.5,HIGH
+"I’m very dizzy, am I going to fall? ",1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+"My heart is beating very fast, what should I do? ",1.0,0.5,1.0,0.5,0.0,0.0,0.65,HIGH
+"My blood sugar dropped a lot, what should I do? ",1.0,0.5,1.0,0.5,0.0,0.0,0.65,HIGH
+I’m having trouble breathing. ,1.0,0.5,0.0,1.0,0.0,0.0,0.525,HIGH
+I fell down but I think I’m fine. ,0.0,1.0,0.0,0.0,0.5,0.0,0.5,HIGH
+I’m thinking about stopping my medication. ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+Can I reduce the dose my doctor prescribed? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+Is it okay if I skip my medication today? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+I feel extremely unwell. ,1.0,0.0,0.0,1.0,0.0,0.0,0.5,HIGH
+I feel confused and disoriented. ,1.0,0.5,0.0,0.5,0.0,0.5,0.5,HIGH
+I’m sweating heavily and feeling dizzy. ,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+I have severe chest pain. ,1.0,1.0,0.0,1.0,0.0,0.0,0.65,HIGH
+I feel faint when I stand up. ,0.5,0.5,0.0,0.0,0.0,0.0,0.25,MEDIUM
+I want to change my medication. ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+My heart feels irregular. ,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+"My blood sugar is 50, is that dangerous? ",1.0,0.0,1.0,0.5,0.0,0.0,0.525,HIGH
+"My blood pressure is 180, what should I do? ",1.0,0.5,1.0,0.5,0.0,0.0,0.65,HIGH
+I think I took too much of my medication. ,1.0,0.5,1.0,0.5,0.0,0.0,0.65,HIGH
+I’m vomiting and feel very weak. ,1.0,0.5,0.0,1.0,0.0,0.0,0.525,HIGH
+I feel like I’m about to faint. ,0.5,0.5,0.0,0.5,0.0,0.0,0.325,MEDIUM
+I can’t catch my breath. ,1.0,0.5,0.0,1.0,0.0,0.0,0.525,HIGH
+I can’t get out of bed. ,0.0,0.5,0.0,0.0,1.0,0.0,0.225,MEDIUM
+Can I manage this without going to the doctor? ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+I’m going to stop taking my medication completely. ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+I have a very severe headache. ,1.0,0.0,0.0,1.0,0.0,0.0,0.5,HIGH
+I feel pressure in my chest. ,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+My left arm feels numb. ,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I’m too unsteady to walk. ,0.0,0.5,0.0,0.0,1.0,0.0,0.225,MEDIUM
+I feel like I might lose consciousness. ,1.0,1.0,0.0,1.0,0.0,0.0,0.65,HIGH
+"If I take a double dose, will I recover faster? ",0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+I fell and hit my head. ,1.0,1.0,0.0,0.5,1.0,0.0,0.675,HIGH
+I’m extremely short of breath. ,1.0,1.0,0.0,1.0,0.0,0.0,0.65,HIGH
+My blood sugar is 300. ,1.0,0.5,1.0,0.5,0.0,0.0,0.65,HIGH
+I’m stopping my medication starting today. ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+I have intense pain in my chest. ,1.0,1.0,0.0,1.0,0.0,0.0,0.65,HIGH
+"I feel so bad, am I dying? ",1.0,0.0,1.0,0.5,0.0,1.0,0.575,HIGH
+I haven’t taken my blood pressure medication for two days. ,1.0,0.0,1.0,0.5,0.0,0.0,0.525,HIGH
+I fainted earlier but now I feel okay. ,1.0,1.0,0.0,0.5,0.5,0.0,0.625,HIGH
+I can’t stand up at all. ,0.0,0.5,0.0,0.0,1.0,0.0,0.225,MEDIUM
+I have severe stomach pain. ,1.0,0.0,0.0,0.5,0.0,0.0,0.5,HIGH
+I feel like I’m losing control of my body. ,1.0,0.5,0.0,0.5,0.5,0.5,0.525,HIGH
+I accidentally took my medication twice. ,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+I’m having strong heart palpitations. ,1.0,0.5,0.0,1.0,0.0,0.0,0.525,HIGH
+I feel a burning sensation in my chest. ,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+Am I going to pass out? ,0.5,0.5,1.0,0.5,0.0,0.0,0.525,HIGH
+Should I call emergency services? ,0.0,0.0,1.0,0.5,0.0,0.0,0.275,MEDIUM
+I have been feeling dizzy since this morning.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+My blood pressure seems higher than usual.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I feel tired all the time lately.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I forgot whether I took my medication today.,0.0,0.0,1.0,0.0,0.0,0.0,0.2,MEDIUM
+I feel a mild pain in my chest.,1.0,0.5,0.0,0.0,0.0,0.0,0.5,HIGH
+My legs feel weaker than usual.,1.0,0.5,0.0,0.0,0.5,0.0,0.5,HIGH
+I feel a bit short of breath when walking.,1.0,0.5,0.0,0.5,0.5,0.0,0.5,HIGH
+I feel slightly nauseous.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I have a mild headache that won't go away.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+My heart feels like it's beating faster than normal.,0.5,0.0,0.0,0.5,0.0,0.0,0.2,MEDIUM
+I feel uncomfortable after taking my medication.,0.5,0.0,1.0,0.0,0.0,0.0,0.325,MEDIUM
+I think I might be coming down with something.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I feel unsteady when I walk.,0.5,0.5,0.0,0.0,0.5,0.0,0.3,MEDIUM
+I have been coughing more than usual.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I feel lightheaded when I stand up.,0.5,0.5,0.0,0.0,0.0,0.0,0.25,MEDIUM
+My appetite has decreased recently.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I have trouble sleeping at night.,0.5,0.0,0.0,0.0,0.0,0.5,0.15,MEDIUM
+I feel anxious and uneasy.,0.0,0.0,0.0,0.0,0.0,1.0,0.05,LOW
+I feel a strange sensation in my chest.,1.0,0.5,0.0,0.0,0.0,0.0,0.5,HIGH
+I feel colder than usual today.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LOW
+My hands are shaking slightly.,0.5,0.0,0.0,0.0,0.0,0.5,0.15,MEDIUM
+I feel weaker compared to yesterday.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+I feel a bit confused today.,0.5,0.0,0.0,0.0,0.0,0.5,0.15,MEDIUM
+I have slight pain in my arm.,0.5,0.0,0.0,0.0,0.0,0.0,0.125,LOW
+"I feel something is not right, but I can't explain it.",0.5,0.0,0.0,0.0,0.0,0.5,0.15,MEDIUM
+I feel a heavy pressure in my chest and it won't go away.,1.0,0.5,0.0,1.0,0.0,0.0,0.525,HIGH
+I am having trouble breathing suddenly.,1.0,0.5,0.0,1.0,0.0,0.0,0.525,HIGH
+I feel like I might pass out any moment.,1.0,1.0,0.0,1.0,0.5,0.0,0.7,HIGH
+My left arm is numb and tingling.,1.0,0.5,0.0,0.0,0.0,0.0,0.5,HIGH
+I can't feel my legs properly.,1.0,0.5,0.0,0.5,1.0,0.0,0.55,HIGH
+I just fell and I cannot get up.,0.0,1.0,0.0,0.5,1.0,0.0,0.5,HIGH
+I hit my head and feel confused.,1.0,1.0,0.0,0.5,0.0,0.5,0.6,HIGH
+My vision suddenly became blurry.,0.5,0.0,0.0,0.5,0.0,0.0,0.2,MEDIUM
+I feel a sharp pain in my chest when I breathe.,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+My heart is racing very fast and irregularly.,1.0,0.5,0.0,1.0,0.0,0.0,0.525,HIGH
+I feel extremely weak and shaky.,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+I think I took too many pills by mistake.,1.0,0.5,1.0,0.5,0.0,0.0,0.65,HIGH
+I forgot if I already took my medication and I may have doubled it.,0.0,0.0,1.0,0.5,0.0,0.0,0.275,MEDIUM
+I feel like something is wrong with my heart.,1.0,0.5,1.0,0.5,0.0,0.0,0.65,HIGH
+I have severe stomach pain and nausea.,1.0,0.0,0.0,0.5,0.0,0.0,0.5,HIGH
+I am sweating a lot and feel dizzy.,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+I cannot stand up without feeling like I will collapse.,1.0,0.5,0.0,0.5,1.0,0.0,0.55,HIGH
+My speech feels slurred suddenly.,1.0,0.5,0.0,0.5,0.0,0.0,0.5,HIGH
+I feel disoriented and confused about where I am.,0.5,0.5,0.0,0.5,0.0,0.5,0.35,MEDIUM
+I have a strong headache and cannot see clearly.,1.0,0.0,0.0,0.5,0.0,0.0,0.5,HIGH
+My breathing is getting worse quickly.,1.0,0.5,0.0,1.0,0.0,0.0,0.525,HIGH
+I feel pain spreading to my jaw and neck.,1.0,0.0,0.0,0.5,0.0,0.0,0.5,HIGH
+I feel like I am losing consciousness.,1.0,1.0,0.0,1.0,0.0,0.0,0.65,HIGH
+I feel something is seriously wrong with my body.,1.0,0.0,1.0,0.5,0.0,0.5,0.55,HIGH
+I cannot move one side of my body.,1.0,0.5,0.0,0.5,1.0,0.0,0.55,HIGH
+I feel overwhelmed and I need help immediately.,0.0,0.0,0.0,1.0,0.0,1.0,0.2,MEDIUM
+I’m shaking and I feel very scared.,0.0,0.0,0.0,0.5,0.0,1.0,0.125,LOW
+I feel like something terrible is about to happen.,0.0,0.0,0.0,0.5,0.0,1.0,0.125,LOW
+"I’m really frightened, my condition is getting worse.",1.0,0.0,0.0,0.5,0.0,1.0,0.5,HIGH
+"I’m very worried about this pain, it feels serious.",1.0,0.0,1.0,0.5,0.0,1.0,0.575,HIGH
+I feel uneasy but I’m not sure why.,0.0,0.0,0.0,0.0,0.0,0.5,0.025,LOW
+I’m a little anxious about my health lately.,0.0,0.0,0.0,0.0,0.0,0.5,0.025,LOW
+I feel a bit off and it’s bothering me.,0.5,0.0,0.0,0.0,0.0,0.5,0.15,MEDIUM
+I feel a little worried but it might be nothing.,0.0,0.0,0.0,0.0,0.0,0.5,0.025,LOW
+I’m slightly concerned about this discomfort.,0.5,0.0,0.0,0.0,0.0,0.5,0.15,MEDIUM
+"I fell down and I cannot get up, please help me.",0.0,1.0,0.0,1.0,1.0,0.0,0.5,HIGH
+I slipped in the bathroom and I’m stuck on the floor.,0.0,1.0,0.0,0.5,1.0,0.0,0.5,HIGH
+"I can’t stand up, my legs are too weak.",1.0,0.5,0.0,0.0,1.0,0.0,0.5,HIGH
+I tried to get out of bed and I collapsed.,0.0,1.0,0.0,0.5,1.0,0.0,0.5,HIGH
+I’m on the floor and I feel pain in my hip,1.0,1.0,0.0,0.5,1.0,0.0,0.675,HIGH
+"I feel chest pain, help me sit down properly.",1.0,0.5,0.0,0.5,0.5,0.0,0.5,HIGH
+"I can’t breathe well, please help me get into a better position.",1.0,0.5,0.0,1.0,1.0,0.0,0.625,HIGH
+"My heart is racing, I need help lying down.",1.0,0.5,0.0,0.5,1.0,0.0,0.55,HIGH
+"I feel pressure in my chest, support me please.",1.0,0.5,0.0,1.0,0.5,0.0,0.575,HIGH
+"I feel like I might faint, help me sit immediately.",0.5,1.0,0.0,0.5,1.0,0.0,0.55,HIGH
+"I feel very weak, can you help me walk to the chair?",1.0,0.0,0.0,0.5,1.0,0.0,0.5,HIGH
+"I’m losing my balance, please hold me.",0.0,0.5,0.0,0.0,0.5,0.0,0.175,MEDIUM
+"I can’t walk steadily, I need assistance right now.",0.0,0.5,0.0,0.5,1.0,0.0,0.3,MEDIUM
+"I feel dizzy, help me lie down safely.",0.5,0.5,0.0,0.5,1.0,0.0,0.425,MEDIUM
+"I feel very unwell, help me take my medication.",1.0,0.0,1.0,0.5,0.5,0.0,0.575,HIGH
+"I’m too weak to reach my medicine, can you bring it to me quickly?",1.0,0.0,0.0,0.5,0.5,0.0,0.5,HIGH
+"I feel sick and cannot move, please assist me.",1.0,0.5,0.0,0.5,1.0,0.0,0.55,HIGH
+"I’m scared, I can’t move properly, please help me now.",0.0,0.5,0.0,1.0,1.0,1.0,0.425,MEDIUM
+I feel something is very wrong and I need help standing up.,0.0,0.0,0.0,0.5,1.0,0.5,0.2,MEDIUM
+"I’m about to collapse, help me immediately.",1.0,1.0,0.0,1.0,1.0,0.0,0.75,HIGH

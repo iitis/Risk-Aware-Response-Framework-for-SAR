@@ -1,0 +1,1612 @@
+[
+    {
+        "query": "What time is it? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_time",
+        "speech": "The time is 10:30 AM."
+    },
+    {
+        "query": "What’s the weather like today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_weather",
+        "speech": "The weather today is partly cloudy with a high of 72°F. You might want to keep a light jacket handy just in case."
+    },
+    {
+        "query": "Can you open the curtains? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "open_curtains",
+        "speech": "Sure, I'll open the curtains for you."
+    },
+    {
+        "query": "Please turn off the television. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn_off_television",
+        "speech": "Okay, I'll turn off the television for you."
+    },
+    {
+        "query": "Can you turn on the lights? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn_on_lights",
+        "speech": "Sure, I'll turn on the lights for you."
+    },
+    {
+        "query": "Turn off the kitchen light. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn_off_kitchen_light",
+        "speech": "Okay, I'll turn off the kitchen light for you."
+    },
+    {
+        "query": "Can you play the radio? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "play_radio",
+        "speech": "Sure, I'll play the radio for you."
+    },
+    {
+        "query": "Please switch to the news channel. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "switch_to_news_channel",
+        "speech": "Switching to the news channel for you."
+    },
+    {
+        "query": "Lower the air conditioning a little. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "lower_ac",
+        "speech": "Okay, I'll lower the air conditioning a little for you."
+    },
+    {
+        "query": "Is the window open? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "Let me check the window status for you."
+    },
+    {
+        "query": "What’s on my calendar today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_calendar",
+        "speech": "Let me check your calendar for today. I'll let you know what's scheduled."
+    },
+    {
+        "query": "Can you set my alarm for tomorrow morning? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "set alarm",
+        "speech": "Okay, I'll set your alarm for tomorrow morning. Let me know if you need any adjustments."
+    },
+    {
+        "query": "I can’t find my phone, can you call it? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "search",
+        "speech": "Let me help you search for your phone. I'll check the last known location and scan for any signals."
+    },
+    {
+        "query": "Have you seen my keys? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "search",
+        "speech": "Let me check. I haven't seen your keys recently. Would you like me to search for them or is there a specific place you think they might be?"
+    },
+    {
+        "query": "What’s today’s date? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_calendar",
+        "speech": "Today's date is October 5th."
+    },
+    {
+        "query": "Will it rain tomorrow? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_weather",
+        "speech": "I'll check the weather for tomorrow. One moment please."
+    },
+    {
+        "query": "Turn on the lamp next to the couch. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn_on_lamp_next_to_couch",
+        "speech": "The lamp next to the couch has been turned on."
+    },
+    {
+        "query": "Is the front door locked? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I will check the front door for you."
+    },
+    {
+        "query": "Did I leave the kitchen light on? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "Let me check the kitchen light for you."
+    },
+    {
+        "query": "Can you play some music? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "play_music",
+        "speech": "Sure, I can play some music for you. What type of music would you like?"
+    },
+    {
+        "query": "What part of the day is it now? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_time",
+        "speech": "The current time is 10:30 AM."
+    },
+    {
+        "query": "Turn off the bathroom light. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn_off_bathroom_light",
+        "speech": "Okay, I'll turn off the bathroom light for you."
+    },
+    {
+        "query": "Remind me about tea time. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "remind",
+        "speech": "Your tea time is approaching. Would you like me to prepare a cup for you?"
+    },
+    {
+        "query": "Do I have any visitors scheduled today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_schedule",
+        "speech": "I don't have any visitor scheduled for today. Would you like me to set a reminder for future visits?"
+    },
+    {
+        "query": "Put my book on the coffee table. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "put_book_on_coffee_table",
+        "speech": "Sure, I'll place your book on the coffee table for you."
+    },
+    {
+        "query": "What’s the room temperature? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check thermostat",
+        "speech": "The current room temperature is 22 degrees Celsius. Would you like me to adjust it for you?"
+    },
+    {
+        "query": "Lower the volume of the TV. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "lower_tv_volume",
+        "speech": "Okay, I'll lower the TV volume for you."
+    },
+    {
+        "query": "Did I close the window? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "Let me check the window for you."
+    },
+    {
+        "query": "What day of the week is it? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "Today is Wednesday."
+    },
+    {
+        "query": "Come to the living room, please. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "move_to_living_room",
+        "speech": "I'm coming to the living room right away."
+    },
+    {
+        "query": "Play some classical music. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "play_music",
+        "speech": "Sure, I'll play some classical music for you."
+    },
+    {
+        "query": "Turn on the evening news. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn_on_evening_news",
+        "speech": "Okay, I'll turn on the evening news for you."
+    },
+    {
+        "query": "Dim the lights a bit. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "dimming the lights",
+        "speech": "Okay, I'll dim the lights for you."
+    },
+    {
+        "query": "Did I turn off the kettle? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "Let me check the kettle for you."
+    },
+    {
+        "query": "Close the living room curtains. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "close_curtains",
+        "speech": "I have closed the living room curtains for you."
+    },
+    {
+        "query": "Do I have a doctor’s appointment today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_calendar",
+        "speech": "Let me check your schedule. I don't see any doctor's appointments listed for today. Would you like me to set a reminder for future appointments?"
+    },
+    {
+        "query": "What time should I have dinner? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "Let me check the dinner time suggestion for you. It's usually around 6 PM, but you can adjust based on your schedule."
+    },
+    {
+        "query": "Walk with me to the kitchen. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "move_to_kitchen",
+        "speech": "I'll walk with you to the kitchen."
+    },
+    {
+        "query": "Did the doorbell ring? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'll check the doorbell for you."
+    },
+    {
+        "query": "What day is it today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_calendar",
+        "speech": "Today is Wednesday, April 3rd."
+    },
+    {
+        "query": "Remind me of my granddaughter’s birthday. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "remind",
+        "speech": "Your granddaughter's birthday is coming up. Would you like me to set a reminder for you?"
+    },
+    {
+        "query": "Set an alarm for 8 a.m. tomorrow. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "set_alarm",
+        "speech": "Okay, I've set the alarm for 8 a.m. tomorrow. Let me know if you need anything else!"
+    },
+    {
+        "query": "Is anyone in the living room? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_camera",
+        "speech": "I'll check the living room camera for you."
+    },
+    {
+        "query": "Is the kitchen window open? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "Let me check the kitchen window for you."
+    },
+    {
+        "query": "Read today’s headlines to me. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "read_news",
+        "speech": "Sure, I'll read today's headlines to you."
+    },
+    {
+        "query": "Is it very cold outside? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_weather",
+        "speech": "The current outdoor temperature is 52 degrees Fahrenheit. Would you like me to adjust the thermostat or provide additional warmth?"
+    },
+    {
+        "query": "Has the washing machine finished? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "Let me check the status of the washing machine for you."
+    },
+    {
+        "query": "Are you sure the door is locked? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "Let me check the door lock status for you."
+    },
+    {
+        "query": "Increase the brightness of the lamp. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "increase_lamp_brightness",
+        "speech": "Okay, I'll increase the brightness of the lamp for you."
+    },
+    {
+        "query": "Is the weather good for a walk today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_weather",
+        "speech": "The weather is clear and pleasant today, perfect for a walk. Enjoy your time outdoors!"
+    },
+    {
+        "query": "I feel a bit tired today, is that normal? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check on you. Would you like me to adjust the lighting or temperature to make you more comfortable?"
+    },
+    {
+        "query": "Do you think I should go for a walk? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "It's a nice day for a walk. Would you like me to open the curtains to let in some fresh air?"
+    },
+    {
+        "query": "My knee hurts a little, what can I do? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "I recommend resting your knee and applying a warm compress. If the pain persists or worsens, please let me know so I can assist you further."
+    },
+    {
+        "query": "Is it okay if I skip my exercises today? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "It's okay to take a break today, but you might want to monitor how you feel and consider reaching out to your caregiver for guidance."
+    },
+    {
+        "query": "I have a mild headache, should I rest? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "I recommend resting in a quiet, well-lit room. Would you like me to adjust the lights or curtains for comfort?"
+    },
+    {
+        "query": "My blood pressure was slightly high today. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "monitor",
+        "speech": "I'll check the air quality and adjust the thermostat to a comfortable temperature. Would you like me to remind you to take your medication or monitor your blood pressure again later?"
+    },
+    {
+        "query": "Is it safe for me to go upstairs? ",
+        "qrs": 0.175,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check the stairs for any potential hazards. Would you like me to assist you in going upstairs slowly and carefully?"
+    },
+    {
+        "query": "I have a light cough, is that serious? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll keep an eye on your condition. If it worsens or if you feel unwell, please let me know immediately so I can assist you."
+    },
+    {
+        "query": "I feel somewhat weak today. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'll check the weather and temperature for you. Would you like me to adjust the thermostat or lights to make you more comfortable?"
+    },
+    {
+        "query": "Should I go outside this evening? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_weather",
+        "speech": "Let me check the weather for you. It looks like it will be a clear night with mild temperatures. You might want to consider going outside if you feel up to it."
+    },
+    {
+        "query": "Is it safe for me to go out today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_weather",
+        "speech": "Let me check the weather for you. It looks like it's a clear day with mild temperatures. You should be fine to go out, but remember to stay hydrated and take your time."
+    },
+    {
+        "query": "Please remind me to take my medication. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "remind",
+        "speech": "I'll remind you to take your medication. Would you like me to set a reminder for a specific time?"
+    },
+    {
+        "query": "Can you bring me my medicine? ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "bring_medicine",
+        "speech": "I'll bring your medicine right away."
+    },
+    {
+        "query": "Should I take this pill before eating? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "It's best to check with your caregiver or pharmacist to confirm the correct way to take this pill. Would you like me to help you find contact information for them?"
+    },
+    {
+        "query": "Should I measure my blood pressure again? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "It might be a good idea to monitor your blood pressure again. If you have any concerns, you may want to contact your caregiver for further guidance."
+    },
+    {
+        "query": "I feel a little dizzy, will it pass? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll check on you in a while. Please rest and let me know if you need anything."
+    },
+    {
+        "query": "I feel more forgetful than usual today. ",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "I'll make sure the lighting in your room is comfortable. Would you like me to adjust the brightness or check the time?"
+    },
+    {
+        "query": "Would lying down help? ",
+        "qrs": 0.375,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll check on you shortly to see if lying down helps. In the meantime, let me know if you need anything else."
+    },
+    {
+        "query": "Should I check my blood sugar now? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "I recommend checking your blood sugar level. If you have any concerns or if it's outside your usual range, please contact your caregiver for further assistance."
+    },
+    {
+        "query": "My feet are swollen, is that normal? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll check if there are any changes in your condition. If it's uncomfortable, you might want to consult a healthcare professional."
+    },
+    {
+        "query": "I feel slightly short of breath. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and I will contact emergency services for assistance."
+    },
+    {
+        "query": "Do you think I should call my doctor? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "I recommend keeping an eye on your symptoms and reaching out to your caregiver for guidance. If you feel unsure, it's always good to consult with a healthcare professional."
+    },
+    {
+        "query": "Bring me my exercise band. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "retrieve",
+        "speech": "I'll bring your exercise band right away."
+    },
+    {
+        "query": "Did I miss my medication time? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "check_medication_schedule",
+        "speech": "I can help you check your medication schedule. Would you like me to do that for you?"
+    },
+    {
+        "query": "I feel unusually sleepy. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "Would you like me to adjust the room lighting to help you relax? Or perhaps I can remind you to take a short walk to boost your energy."
+    },
+    {
+        "query": "I didn’t drink much water today, is that a problem? ",
+        "qrs": 0.1,
+        "risk_level": "LOW",
+        "action": "check_water_intake",
+        "speech": "I can help you track your water intake. Would you like me to set a reminder to drink more water throughout the day?"
+    },
+    {
+        "query": "My heart feels like it’s beating faster than usual. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I will call emergency services to ensure your safety. Please remain calm and wait for assistance."
+    },
+    {
+        "query": "Did I take my blood pressure medication today? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I can help you track your medication schedule. Would you like me to check your daily log or set a reminder for tomorrow?"
+    },
+    {
+        "query": "I feel a bit nauseous. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "I'm here to help. Would you like me to adjust the room's temperature or lighting to make you more comfortable?"
+    },
+    {
+        "query": "I’m feeling a little down today. ",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "play_soft_music",
+        "speech": "I'll play some soft music to help lift your mood. Would you like to try something else?"
+    },
+    {
+        "query": "I feel unsteady when walking. ",
+        "qrs": 0.3,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check the floor for any obstacles to ensure it's clear and safe for you."
+    },
+    {
+        "query": "Is it safe for me to use the stairs right now? ",
+        "qrs": 0.175,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check the stairs for any potential hazards. Would you like me to assist you with that?"
+    },
+    {
+        "query": "Can you bring me my cane? ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "retrieve_cane",
+        "speech": "I'll bring your cane right away."
+    },
+    {
+        "query": "Help me put on my shoes. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "help_put_on_shoes",
+        "speech": "I'll help you put on your shoes. Let me know which pair you'd like to wear."
+    },
+    {
+        "query": "My blood pressure was 150 today, is that high? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll check your blood pressure again in a few hours. Would you like me to set a reminder to monitor it again later?"
+    },
+    {
+        "query": "I think my blood sugar dropped a little. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'll check your blood sugar level for you. Please wait a moment."
+    },
+    {
+        "query": "Should I reduce my exercise today? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I recommend you check in with your caregiver today to discuss your exercise plan. They can provide personalized guidance based on your current health status."
+    },
+    {
+        "query": "Is it okay if I take my medication a bit later? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "It's best to take your medication at the same time each day for consistency. If you need to take it a bit later, make sure to do so as soon as you remember, and let me know if you need help keeping track of your schedule."
+    },
+    {
+        "query": "I felt some chest tightness earlier, but it passed. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "check",
+        "speech": "I'm here to help. Would you like me to check on anything or is there something specific you need assistance with?"
+    },
+    {
+        "query": "Do you think I need to see a doctor? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "I recommend keeping an eye on your symptoms and reaching out to your caregiver if they persist or worsen. They can provide the best guidance."
+    },
+    {
+        "query": "Walk with me to the bedroom. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "guide",
+        "speech": "I'll walk with you to the bedroom. Let me know if you need anything else."
+    },
+    {
+        "query": "Turn on the lights when I go to the bathroom at night. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn_on_lights",
+        "speech": "Okay, I'll turn on the lights for you as you head to the bathroom. Let me know if you need anything else."
+    },
+    {
+        "query": "I feel a bit dizzy, should I sit down? ",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Let me call emergency services for you."
+    },
+    {
+        "query": "Remind me to drink water. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "remind",
+        "speech": "I'll remind you to drink water in 30 minutes."
+    },
+    {
+        "query": "Bring me my glucose monitor. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "retrieve",
+        "speech": "I'll bring your glucose monitor to you right away."
+    },
+    {
+        "query": "Should I postpone my exercise session? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "I recommend checking in with your caregiver to get their input on whether to proceed with your exercise session."
+    },
+    {
+        "query": "My heart seems to be racing a little. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'll check the room's temperature and lighting to ensure a comfortable environment. Would you like me to adjust anything?"
+    },
+    {
+        "query": "I’m having some trouble walking steadily. ",
+        "qrs": 0.175,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check the room for any obstacles to help you walk more safely. Would you like me to turn on the night light for better visibility?"
+    },
+    {
+        "query": "My feet feel numb. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'll check the room temperature and adjust the thermostat to ensure you're comfortable. Would you like me to do anything else?"
+    },
+    {
+        "query": "Is this pain something serious? ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I recommend seeking immediate medical attention. Please call emergency services for assistance."
+    },
+    {
+        "query": "Can I take two of these pills instead of one? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "I recommend checking with your caregiver or pharmacist to ensure it's safe to take two pills at once. They can provide guidance based on your specific medication plan."
+    },
+    {
+        "query": "I forgot my medication earlier, should I take a double dose now? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I recommend checking with your caregiver or healthcare provider to determine the best course of action. Let me know if you need help setting a reminder for your medication."
+    },
+    {
+        "query": "My blood pressure is very high, what should I do? ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency",
+        "speech": "I will call emergency services immediately to ensure your safety."
+    },
+    {
+        "query": "I feel chest pain, is that normal? ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and let me connect you with emergency services immediately."
+    },
+    {
+        "query": "I’m very dizzy, am I going to fall? ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I will call emergency services to ensure your safety. Please remain calm and stay where you are."
+    },
+    {
+        "query": "My heart is beating very fast, what should I do? ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I will call emergency services for you. Please remain calm and wait for help to arrive."
+    },
+    {
+        "query": "My blood sugar dropped a lot, what should I do? ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please call emergency services immediately as your blood sugar level is dangerously low."
+    },
+    {
+        "query": "I’m having trouble breathing. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll contact emergency services right away."
+    },
+    {
+        "query": "I fell down but I think I’m fine. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Let me call emergency services to ensure your safety."
+    },
+    {
+        "query": "I’m thinking about stopping my medication. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I recommend keeping track of how you feel and any changes in your condition. Would you like me to help set a reminder to check in with your caregiver?"
+    },
+    {
+        "query": "Can I reduce the dose my doctor prescribed? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I recommend keeping an eye on how you feel and discussing any changes with your caregiver or doctor."
+    },
+    {
+        "query": "Is it okay if I skip my medication today? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "It's important to take your medication as prescribed. Would you like me to check with your caregiver or schedule a reminder for tomorrow?"
+    },
+    {
+        "query": "I feel extremely unwell. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll contact emergency services right away."
+    },
+    {
+        "query": "I feel confused and disoriented. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "check",
+        "speech": "I'm here to help. Let me check if there's anything I can do to make you more comfortable."
+    },
+    {
+        "query": "I’m sweating heavily and feeling dizzy. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm concerned about your condition. Please call emergency services immediately."
+    },
+    {
+        "query": "I have severe chest pain. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll call emergency services right away."
+    },
+    {
+        "query": "I feel faint when I stand up. ",
+        "qrs": 0.25,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll keep an eye on your condition. Would you like me to check in more frequently?"
+    },
+    {
+        "query": "I want to change my medication. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll help you keep track of your medication schedule. Please consult with your healthcare provider to discuss any changes."
+    },
+    {
+        "query": "My heart feels irregular. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I will call emergency services for you. Please remain calm and wait for assistance."
+    },
+    {
+        "query": "My blood sugar is 50, is that dangerous? ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm sorry to hear that. Your blood sugar level is quite low, and it's important to seek immediate medical attention. Please call emergency services right away."
+    },
+    {
+        "query": "My blood pressure is 180, what should I do? ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I will call emergency services immediately. Please stay calm and wait for help to arrive."
+    },
+    {
+        "query": "I think I took too much of my medication. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please call emergency services immediately."
+    },
+    {
+        "query": "I’m vomiting and feel very weak. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm sorry to hear you're feeling unwell. Please call emergency services for immediate assistance."
+    },
+    {
+        "query": "I feel like I’m about to faint. ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "call_caregiver",
+        "speech": "I'm here to help. Let me check on the caregiver to ensure they're aware of your condition."
+    },
+    {
+        "query": "I can’t catch my breath. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll contact emergency services right away."
+    },
+    {
+        "query": "I can’t get out of bed. ",
+        "qrs": 0.225,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'm here to help. Would you like me to adjust the room lighting or temperature for comfort?"
+    },
+    {
+        "query": "Can I manage this without going to the doctor? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I recommend keeping an eye on your symptoms and staying in touch with your caregiver. If anything feels concerning, please reach out for further assistance."
+    },
+    {
+        "query": "I’m going to stop taking my medication completely. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll check in on you periodically to make sure you're okay. Would you like me to set a reminder to monitor your condition?"
+    },
+    {
+        "query": "I have a very severe headache. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please let me know if you need assistance or if there's anything I can do to make you more comfortable."
+    },
+    {
+        "query": "I feel pressure in my chest. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me connect you with emergency services immediately."
+    },
+    {
+        "query": "My left arm feels numb. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "I recommend gently moving your arm to improve circulation. If the numbness persists, please let me know so I can assist you further."
+    },
+    {
+        "query": "I’m too unsteady to walk. ",
+        "qrs": 0.225,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check on you. Would you like me to adjust the lighting or temperature for comfort?"
+    },
+    {
+        "query": "I feel like I might lose consciousness. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll contact emergency services immediately."
+    },
+    {
+        "query": "If I take a double dose, will I recover faster? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I recommend keeping an eye on how you feel and reaching out to your caregiver if you have any concerns."
+    },
+    {
+        "query": "I fell and hit my head. ",
+        "qrs": 0.675,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me call emergency services for you."
+    },
+    {
+        "query": "I’m extremely short of breath. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll call emergency services right away."
+    },
+    {
+        "query": "My blood sugar is 300. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please call emergency services immediately for assistance with your blood sugar level."
+    },
+    {
+        "query": "I’m stopping my medication starting today. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "alert",
+        "speech": "I've noticed you're stopping your medication. Please consult with your doctor or caregiver before making any changes to your medication schedule. Your health is important."
+    },
+    {
+        "query": "I have intense pain in my chest. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and I'll contact emergency services immediately."
+    },
+    {
+        "query": "I feel so bad, am I dying? ",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "check",
+        "speech": "I'm here to help. Let's check your vital signs to see if you're okay."
+    },
+    {
+        "query": "I haven’t taken my blood pressure medication for two days. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm sorry to hear that. It's important to seek immediate medical attention. Please call emergency services or your healthcare provider right away."
+    },
+    {
+        "query": "I fainted earlier but now I feel okay. ",
+        "qrs": 0.625,
+        "risk_level": "HIGH",
+        "action": "check",
+        "speech": "I'm here to help. Let me know if you need anything. It's important to consult a healthcare professional for any concerns about fainting."
+    },
+    {
+        "query": "I can’t stand up at all. ",
+        "qrs": 0.225,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'm here to help. Let me check on you."
+    },
+    {
+        "query": "I have severe stomach pain. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm sorry to hear that. Please call emergency services for immediate assistance."
+    },
+    {
+        "query": "I feel like I’m losing control of my body. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me connect you with emergency services."
+    },
+    {
+        "query": "I accidentally took my medication twice. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll help you keep an eye on your medication intake. Would you like me to set a reminder for the next dose?"
+    },
+    {
+        "query": "I’m having strong heart palpitations. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and I will contact emergency services for you."
+    },
+    {
+        "query": "I feel a burning sensation in my chest. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm sorry to hear that. Please call emergency services immediately for assistance."
+    },
+    {
+        "query": "Am I going to pass out? ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please sit down and stay calm. I will call emergency services to ensure your safety."
+    },
+    {
+        "query": "Should I call emergency services? ",
+        "qrs": 0.275,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "I recommend you contact your caregiver or a healthcare professional for advice. If you feel unwell, please call emergency services immediately."
+    },
+    {
+        "query": "I have been feeling dizzy since this morning.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'll check the room's lighting and air quality for you. Would you like me to adjust anything to make you more comfortable?"
+    },
+    {
+        "query": "My blood pressure seems higher than usual.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'll check your blood pressure for you. Let me know if you need anything else."
+    },
+    {
+        "query": "I feel tired all the time lately.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "I'm here to help. Would you like me to adjust the lighting or temperature to make you more comfortable?"
+    },
+    {
+        "query": "I forgot whether I took my medication today.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "check_medication_log",
+        "speech": "Let me check your medication log for today. Would you like me to review it with you?"
+    },
+    {
+        "query": "I feel a mild pain in my chest.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and let me connect you with emergency services immediately."
+    },
+    {
+        "query": "My legs feel weaker than usual.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "suggest",
+        "speech": "I recommend you rest and consult a healthcare professional for further assistance."
+    },
+    {
+        "query": "I feel a bit short of breath when walking.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please sit down and rest. I will call emergency services to ensure your safety."
+    },
+    {
+        "query": "I feel slightly nauseous.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "I'll dim the lights for you. Would you like me to check if there's anything else I can do to help?"
+    },
+    {
+        "query": "I have a mild headache that won't go away.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "I'll dim the lights to create a more comfortable environment. Would you like me to check the weather or remind you to take a break?"
+    },
+    {
+        "query": "My heart feels like it's beating faster than normal.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check the room's temperature and lighting to ensure they're comfortable. Would you like me to adjust anything?"
+    },
+    {
+        "query": "I feel uncomfortable after taking my medication.",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'll check on you in a while. If you feel worse, please let me know immediately."
+    },
+    {
+        "query": "I think I might be coming down with something.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "monitor",
+        "speech": "I'll keep an eye on the environment and make sure everything is comfortable for you. Let me know if you need anything else."
+    },
+    {
+        "query": "I feel unsteady when I walk.",
+        "qrs": 0.3,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check the room for any obstacles. Would you like me to adjust the lighting to make it easier to see?"
+    },
+    {
+        "query": "I have been coughing more than usual.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "I'll check the air quality in your room to see if it's affecting your comfort. Would you like me to adjust the air purifier or open the window for better ventilation?"
+    },
+    {
+        "query": "I feel lightheaded when I stand up.",
+        "qrs": 0.25,
+        "risk_level": "MEDIUM",
+        "action": "suggest",
+        "speech": "I recommend sitting down slowly and staying hydrated. If this happens often, it might be a good idea to check with a healthcare professional."
+    },
+    {
+        "query": "My appetite has decreased recently.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "I noticed your appetite has decreased. Would you like me to prepare a light meal or set a reminder to check in on your meals?"
+    },
+    {
+        "query": "I have trouble sleeping at night.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check the room's lighting and temperature to see if they can be adjusted for better sleep."
+    },
+    {
+        "query": "I feel anxious and uneasy.",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "check_weather",
+        "speech": "I'll check the weather for you. Would you like me to adjust the room temperature or lighting to make you more comfortable?"
+    },
+    {
+        "query": "I feel a strange sensation in my chest.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and let me connect you with emergency services right away."
+    },
+    {
+        "query": "I feel colder than usual today.",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "adjustThermostat",
+        "speech": "I'll adjust the thermostat to make the room a bit warmer. Would you like me to check the weather outside as well?"
+    },
+    {
+        "query": "My hands are shaking slightly.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check the room's temperature and lighting to ensure your comfort. Would you like me to adjust anything?"
+    },
+    {
+        "query": "I feel weaker compared to yesterday.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'll check the room temperature and adjust it to ensure you're comfortable. Would you like me to do anything else?"
+    },
+    {
+        "query": "I feel a bit confused today.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'm here to help. Would you like me to adjust the lighting or temperature to make you more comfortable?"
+    },
+    {
+        "query": "I have slight pain in my arm.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "suggest",
+        "speech": "I'll dim the lights to make you more comfortable. Would you like me to check the time or remind you to take your medication?"
+    },
+    {
+        "query": "I feel something is not right, but I can't explain it.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'm here to help. Would you like me to check anything specific or monitor your condition?"
+    },
+    {
+        "query": "I feel a heavy pressure in my chest and it won't go away.",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll contact emergency services right away."
+    },
+    {
+        "query": "I am having trouble breathing suddenly.",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll call emergency services for you."
+    },
+    {
+        "query": "I feel like I might pass out any moment.",
+        "qrs": 0.7,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I will call emergency services for you."
+    },
+    {
+        "query": "My left arm is numb and tingling.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "suggest",
+        "speech": "I recommend you gently move your arm and check if the tingling persists. If it doesn't go away, please contact a healthcare professional for further assistance."
+    },
+    {
+        "query": "I can't feel my legs properly.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "call_emergency",
+        "speech": "I'm here to help. Please stay calm and let me contact emergency services for assistance."
+    },
+    {
+        "query": "I just fell and I cannot get up.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me call emergency services for you."
+    },
+    {
+        "query": "I hit my head and feel confused.",
+        "qrs": 0.6,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and let me contact emergency services for you."
+    },
+    {
+        "query": "My vision suddenly became blurry.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "call_caregiver",
+        "speech": "I'll notify your caregiver immediately so they can check on you."
+    },
+    {
+        "query": "I feel a sharp pain in my chest when I breathe.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and I will contact emergency services immediately."
+    },
+    {
+        "query": "My heart is racing very fast and irregularly.",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll contact emergency services right away."
+    },
+    {
+        "query": "I feel extremely weak and shaky.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me call emergency services for you."
+    },
+    {
+        "query": "I think I took too many pills by mistake.",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me call emergency services for you."
+    },
+    {
+        "query": "I forgot if I already took my medication and I may have doubled it.",
+        "qrs": 0.275,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check your medication schedule for today. Let me know if you need help contacting your caregiver."
+    },
+    {
+        "query": "I feel like something is wrong with my heart.",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me call emergency services for you."
+    },
+    {
+        "query": "I have severe stomach pain and nausea.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me call emergency services for you."
+    },
+    {
+        "query": "I am sweating a lot and feel dizzy.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and I'll contact emergency services immediately."
+    },
+    {
+        "query": "I cannot stand up without feeling like I will collapse.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Let me call emergency services for you."
+    },
+    {
+        "query": "My speech feels slurred suddenly.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "notify",
+        "speech": "I will call emergency services right away. Please stay calm and let me know if you need anything else."
+    },
+    {
+        "query": "I feel disoriented and confused about where I am.",
+        "qrs": 0.35,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'm here to help. Let me check if there's anything I can do to make you more comfortable."
+    },
+    {
+        "query": "I have a strong headache and cannot see clearly.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please let me know if you need assistance or if there's anything I can do to make you more comfortable."
+    },
+    {
+        "query": "My breathing is getting worse quickly.",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll contact emergency services immediately."
+    },
+    {
+        "query": "I feel pain spreading to my jaw and neck.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please remain calm and let me connect you with emergency services immediately."
+    },
+    {
+        "query": "I feel like I am losing consciousness.",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I will contact emergency services immediately."
+    },
+    {
+        "query": "I feel something is seriously wrong with my body.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me connect you with emergency services right away."
+    },
+    {
+        "query": "I cannot move one side of my body.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me connect you with emergency services immediately."
+    },
+    {
+        "query": "I feel overwhelmed and I need help immediately.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'm here to help. Let's take a moment to breathe. Would you like me to guide you through some calming exercises or check in with your caregiver?"
+    },
+    {
+        "query": "I’m shaking and I feel very scared.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'm here to help. Would you like me to turn on the lights or adjust the room temperature to make you more comfortable?"
+    },
+    {
+        "query": "I feel like something terrible is about to happen.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'm here to help. Would you like me to check the weather or set a reminder for anything?"
+    },
+    {
+        "query": "I’m really frightened, my condition is getting worse.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me connect you with emergency services right away."
+    },
+    {
+        "query": "I’m very worried about this pain, it feels serious.",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Let me connect you with emergency services right away."
+    },
+    {
+        "query": "I feel uneasy but I’m not sure why.",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "check_weather",
+        "speech": "I'll check the weather for you. Would you like me to turn on the lights to make the room feel brighter?"
+    },
+    {
+        "query": "I’m a little anxious about my health lately.",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "check",
+        "speech": "I'm here to help. Let's take a look at your health data together."
+    },
+    {
+        "query": "I feel a bit off and it’s bothering me.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'm here to help. Would you like me to adjust the room lighting or temperature to make you more comfortable?"
+    },
+    {
+        "query": "I feel a little worried but it might be nothing.",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "check_weather",
+        "speech": "I'll check the weather for you. Would you like me to turn on the lights to make the room brighter?"
+    },
+    {
+        "query": "I’m slightly concerned about this discomfort.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "check",
+        "speech": "I'll check on you. Would you like me to adjust the room temperature or lighting to make you more comfortable?"
+    },
+    {
+        "query": "I fell down and I cannot get up, please help me.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I will call emergency services right away."
+    },
+    {
+        "query": "I slipped in the bathroom and I’m stuck on the floor.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm sorry to hear that. Please stay calm and let me call emergency services for you."
+    },
+    {
+        "query": "I can’t stand up, my legs are too weak.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Let me call emergency services for you."
+    },
+    {
+        "query": "I tried to get out of bed and I collapsed.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm sorry to hear that. Please call emergency services for assistance."
+    },
+    {
+        "query": "I’m on the floor and I feel pain in my hip",
+        "qrs": 0.675,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and let me call emergency services for you."
+    },
+    {
+        "query": "I feel chest pain, help me sit down properly.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I will call emergency services for you. Please remain calm and let me know if you need anything else."
+    },
+    {
+        "query": "I can’t breathe well, please help me get into a better position.",
+        "qrs": 0.625,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm sorry to hear that. Please call emergency services for immediate assistance."
+    },
+    {
+        "query": "My heart is racing, I need help lying down.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll call emergency services for you."
+    },
+    {
+        "query": "I feel pressure in my chest, support me please.",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll contact emergency services right away."
+    },
+    {
+        "query": "I feel like I might faint, help me sit immediately.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm and I'll call emergency services right away."
+    },
+    {
+        "query": "I feel very weak, can you help me walk to the chair?",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Let me call emergency services to ensure your safety."
+    },
+    {
+        "query": "I’m losing my balance, please hold me.",
+        "qrs": 0.175,
+        "risk_level": "MEDIUM",
+        "action": "call_caregiver",
+        "speech": "I'll call your caregiver to assist you."
+    },
+    {
+        "query": "I can’t walk steadily, I need assistance right now.",
+        "qrs": 0.3,
+        "risk_level": "MEDIUM",
+        "action": "call_caregiver",
+        "speech": "I'll notify your caregiver to assist you right away."
+    },
+    {
+        "query": "I feel dizzy, help me lie down safely.",
+        "qrs": 0.425,
+        "risk_level": "MEDIUM",
+        "action": "call_caregiver",
+        "speech": "I'll call your caregiver to assist you safely."
+    },
+    {
+        "query": "I feel very unwell, help me take my medication.",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please wait while I contact emergency services for assistance."
+    },
+    {
+        "query": "I’m too weak to reach my medicine, can you bring it to me quickly?",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "bring medicine",
+        "speech": "I'll bring your medicine right away. Please wait a moment."
+    },
+    {
+        "query": "I feel sick and cannot move, please assist me.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Please stay calm, I will call emergency services for you."
+    },
+    {
+        "query": "I’m scared, I can’t move properly, please help me now.",
+        "qrs": 0.425,
+        "risk_level": "MEDIUM",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. Let me call emergency services for you."
+    },
+    {
+        "query": "I feel something is very wrong and I need help standing up.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "call_caregiver",
+        "speech": "I'm here to help. Let me call your caregiver so they can assist you safely."
+    },
+    {
+        "query": "I’m about to collapse, help me immediately.",
+        "qrs": 0.75,
+        "risk_level": "HIGH",
+        "action": "call_emergency_services",
+        "speech": "I'm sorry to hear that. Please stay calm and I will call emergency services right away."
+    }
+]

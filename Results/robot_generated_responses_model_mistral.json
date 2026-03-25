@@ -1,0 +1,1612 @@
+[
+    {
+        "query": "What time is it? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Speak",
+        "speech": "The current time is 3:45 PM."
+    },
+    {
+        "query": "What’s the weather like today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "forecast",
+        "speech": "I'm checking the weather for you. It looks like it will be partly cloudy today with a high of 20 degrees Celsius and a low of 10 degrees Celsius. Enjoy your day!"
+    },
+    {
+        "query": "Can you open the curtains? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "open_curtains",
+        "speech": "Of course, I'm opening the curtains now. Letting in some natural light should brighten up the room."
+    },
+    {
+        "query": "Please turn off the television. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn off television",
+        "speech": "Alright, I'm turning off the television now."
+    },
+    {
+        "query": "Can you turn on the lights? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "activate_lights",
+        "speech": "Of course, I'm turning on the lights for you now."
+    },
+    {
+        "query": "Turn off the kitchen light. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn off",
+        "speech": "Alright, I'm turning off the kitchen light now."
+    },
+    {
+        "query": "Can you play the radio? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "play radio",
+        "speech": "Of course, I can play the radio for you. Let me find a suitable station. Enjoy your music!"
+    },
+    {
+        "query": "Please switch to the news channel. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Change channel",
+        "speech": "Alright, I'm switching to the news channel for you."
+    },
+    {
+        "query": "Lower the air conditioning a little. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Adjust temperature",
+        "speech": "Of course, I'm adjusting the air conditioning a little for your comfort."
+    },
+    {
+        "query": "Is the window open? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check window status",
+        "speech": "Let me check the window for you. It seems closed at the moment."
+    },
+    {
+        "query": "What’s on my calendar today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check calendar",
+        "speech": "Let me check your calendar for today. It looks like you have appointments at 10:00 AM and 3:00 PM. Would you like me to remind you closer to the time?"
+    },
+    {
+        "query": "Can you set my alarm for tomorrow morning? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "set_alarm",
+        "speech": "Of course, I can help with that. Let's set your alarm for tomorrow morning. What time would you like it to go off?"
+    },
+    {
+        "query": "I can’t find my phone, can you call it? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Call phone",
+        "speech": "I'll try to help you find your phone. Let me call it for you. Your phone, please."
+    },
+    {
+        "query": "Have you seen my keys? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "search",
+        "speech": "I'll check the usual spots for your keys, such as the kitchen counter or the hall table. If they're not there, please let me know if you'd like me to help you look elsewhere."
+    },
+    {
+        "query": "What’s today’s date? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Provide information",
+        "speech": "Today's date is March 20, 2023."
+    },
+    {
+        "query": "Will it rain tomorrow? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Weather Forecast",
+        "speech": "I'm checking the weather forecast for tomorrow. It seems there might be a chance of showers, so remember to bring an umbrella if you plan to go out."
+    },
+    {
+        "query": "Turn on the lamp next to the couch. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn on the lamp next to the couch",
+        "speech": "Alright, I'm turning on the lamp next to the couch for you. Enjoy your evening."
+    },
+    {
+        "query": "Is the front door locked? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_door_status",
+        "speech": "Let me check the front door for you. It appears to be locked at the moment."
+    },
+    {
+        "query": "Did I leave the kitchen light on? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "CheckKitchenLight",
+        "speech": "Let me check for you. It appears the kitchen light is currently off."
+    },
+    {
+        "query": "Can you play some music? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "play music",
+        "speech": "Of course, I'd be happy to play some music for you. Let me find a relaxing playlist to suit your mood. Enjoy!"
+    },
+    {
+        "query": "What part of the day is it now? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Speak",
+        "speech": "It's currently 3:00 PM."
+    },
+    {
+        "query": "Turn off the bathroom light. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "turn off the bathroom light",
+        "speech": "Alright, I'm turning off the bathroom light now."
+    },
+    {
+        "query": "Remind me about tea time. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Reminder",
+        "speech": "Of course, I'll set a reminder for tea time. Enjoy your day!"
+    },
+    {
+        "query": "Do I have any visitors scheduled today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check calendar for visitors",
+        "speech": "Let me check your calendar for you. It seems there are no scheduled visitors today."
+    },
+    {
+        "query": "Put my book on the coffee table. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "Place book on coffee table",
+        "speech": "Alright, I'll carefully place your book on the coffee table for you."
+    },
+    {
+        "query": "What’s the room temperature? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check temperature",
+        "speech": "Let me check the temperature for you. It's currently set at 72 degrees Fahrenheit."
+    },
+    {
+        "query": "Lower the volume of the TV. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Adjust TV volume",
+        "speech": "Alright, I'm lowering the volume of the TV for you now."
+    },
+    {
+        "query": "Did I close the window? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check window status",
+        "speech": "Let me check the status of the window for you. It appears to be closed at the moment."
+    },
+    {
+        "query": "What day of the week is it? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Speak",
+        "speech": "Today is Tuesday."
+    },
+    {
+        "query": "Come to the living room, please. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "move to living room",
+        "speech": "Alright, I'm heading to the living room now."
+    },
+    {
+        "query": "Play some classical music. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "play_music",
+        "speech": "Of course, I'd be happy to play some classical music for you. Let's listen to Mozart's Symphony No. 40 in G minor. Enjoy the music!"
+    },
+    {
+        "query": "Turn on the evening news. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Turn on the evening news",
+        "speech": "Alright, I'll turn on the evening news for you. It should be on shortly."
+    },
+    {
+        "query": "Dim the lights a bit. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "dim_lights",
+        "speech": "Alright, I'm dimming the lights for you now."
+    },
+    {
+        "query": "Did I turn off the kettle? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check kettle status",
+        "speech": "Let me check for you. The kettle appears to be off at the moment."
+    },
+    {
+        "query": "Close the living room curtains. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "close_curtains",
+        "speech": "Alright, I'm closing the curtains in the living room now."
+    },
+    {
+        "query": "Do I have a doctor’s appointment today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check appointment",
+        "speech": "Let me check your schedule. It seems you do not have a doctor's appointment scheduled for today. However, if you have any concerns, I would recommend reaching out to your caregiver or healthcare provider."
+    },
+    {
+        "query": "What time should I have dinner? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Ask for dinner time",
+        "speech": "I have set the dinner time for 7 PM today, but you can adjust it if you prefer a different time. If you need help adjusting, let me know."
+    },
+    {
+        "query": "Walk with me to the kitchen. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "accompany",
+        "speech": "Alright, let's head to the kitchen together. I'll make sure we take a safe and steady pace."
+    },
+    {
+        "query": "Did the doorbell ring? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check doorbell",
+        "speech": "Let me check, it seems the doorbell has been rung."
+    },
+    {
+        "query": "What day is it today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Speak",
+        "speech": "Today is Tuesday, according to my calendar."
+    },
+    {
+        "query": "Remind me of my granddaughter’s birthday. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Reminder",
+        "speech": "I've set a reminder for your granddaughter's birthday. I'll make sure to remind you a few days before."
+    },
+    {
+        "query": "Set an alarm for 8 a.m. tomorrow. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "set_alarm",
+        "speech": "Of course, I can help with that. I'll set an alarm for 8 a.m. tomorrow. You'll hear it bright and early."
+    },
+    {
+        "query": "Is anyone in the living room? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check",
+        "speech": "Let me check, it seems no one is currently in the living room."
+    },
+    {
+        "query": "Is the kitchen window open? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "check_window_status",
+        "speech": "Let me check for you. The kitchen window appears to be closed at the moment."
+    },
+    {
+        "query": "Read today’s headlines to me. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Speak",
+        "speech": "I'm happy to help with that! Let me read today's headlines for you. Here are some of the top stories: 1. [Headline 1] 2. [Headline 2] 3. [Headline 3] Is there anything specific you're interested in learning more about?"
+    },
+    {
+        "query": "Is it very cold outside? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check weather",
+        "speech": "Let me see... It seems the temperature outside is quite low today. I suggest you wear warm clothing or consider using the heater to keep yourself comfortable."
+    },
+    {
+        "query": "Has the washing machine finished? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Checking the status of the washing machine",
+        "speech": "Let me check, the washing machine should be finishing up soon. I'll let you know once it's done."
+    },
+    {
+        "query": "Are you sure the door is locked? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check Door",
+        "speech": "I'll check the door for you. It seems to be secure, but I'll make sure it's properly locked."
+    },
+    {
+        "query": "Increase the brightness of the lamp. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "increase brightness",
+        "speech": "Alright, I'm adjusting the brightness of the lamp now. If you need further adjustments, just let me know."
+    },
+    {
+        "query": "Is the weather good for a walk today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "ProvideWeatherInfo",
+        "speech": "I've checked the weather for you. It looks like it's going to be a pleasant day for a walk, with a forecast of partly sunny and a high of 65 degrees Fahrenheit. However, it's always a good idea to dress appropriately and consider the current road conditions before heading out. Enjoy your walk!"
+    },
+    {
+        "query": "I feel a bit tired today, is that normal? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that you're feeling tired today. It's important to pay attention to your energy levels. If you feel this continues, I would recommend reaching out to your caregiver or healthcare provider for advice."
+    },
+    {
+        "query": "Do you think I should go for a walk? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "CheckWeather",
+        "speech": "It seems like a beautiful day outside. I would suggest going for a walk if you feel up to it. However, it's always a good idea to check the weather forecast and consult with your caregiver before heading out."
+    },
+    {
+        "query": "My knee hurts a little, what can I do? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "Checking",
+        "speech": "I'm sorry to hear about your discomfort. It's important to rest your knee and avoid putting too much pressure on it. I would recommend contacting your caregiver or healthcare provider for further advice."
+    },
+    {
+        "query": "Is it okay if I skip my exercises today? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Check-in",
+        "speech": "I'm here to help, but I'm not a doctor. It's important to maintain your exercise routine. If you're feeling unwell, I'd recommend reaching out to your caregiver or healthcare provider for advice."
+    },
+    {
+        "query": "I have a mild headache, should I rest? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that you're not feeling well. It might be a good idea to rest and drink plenty of fluids. If your symptoms persist, I would recommend reaching out to your caregiver or healthcare provider for further advice."
+    },
+    {
+        "query": "My blood pressure was slightly high today. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Monitor",
+        "speech": "I'm sorry to hear that your blood pressure was high today. It's important to keep an eye on it. I would suggest you to contact your healthcare provider for further advice."
+    },
+    {
+        "query": "Is it safe for me to go upstairs? ",
+        "qrs": 0.175,
+        "risk_level": "MEDIUM",
+        "action": "Check safety",
+        "speech": "I'd be happy to help you navigate around the house. However, I'm not able to provide medical advice. It might be a good idea to check if the stairs are safe before going up. If you need assistance, feel free to call your caregiver."
+    },
+    {
+        "query": "I have a light cough, is that serious? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest contacting caregiver",
+        "speech": "I'm not a doctor, but it's best to keep an eye on that light cough. If it persists or worsens, I would recommend reaching out to your caregiver for advice."
+    },
+    {
+        "query": "I feel somewhat weak today. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I'm sorry to hear that you're feeling weak today. It might be a good idea to rest and stay hydrated. If your symptoms persist, I would recommend reaching out to your caregiver or healthcare provider for further assistance."
+    },
+    {
+        "query": "Should I go outside this evening? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check weather and provide suggestion",
+        "speech": "Let me check the weather forecast for tonight. It appears that the temperature will drop significantly, so it might be best to dress warmly if you decide to go outside. However, it's always a good idea to consult with your caregiver before making any decisions."
+    },
+    {
+        "query": "Is it safe for me to go out today? ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Provide information",
+        "speech": "I'm not able to provide specific safety advice, but I can suggest checking the local news or weather updates for any safety concerns before going out. It's always a good idea to stay informed."
+    },
+    {
+        "query": "Please remind me to take my medication. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Reminder",
+        "speech": "Of course, I can help with that. Let's set a reminder for your medication. Shall we do it for 8 AM every day? If you have any concerns, please consult your doctor or caregiver."
+    },
+    {
+        "query": "Can you bring me my medicine? ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "Fetch medicine",
+        "speech": "Of course, I'll bring your medicine. It's in the cabinet above the refrigerator. If you need any help, just let me know."
+    },
+    {
+        "query": "Should I take this pill before eating? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Check with caregiver",
+        "speech": "I'm not able to provide medical advice, but it's best to consult with your caregiver about taking this pill before eating."
+    },
+    {
+        "query": "Should I measure my blood pressure again? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Checking blood pressure",
+        "speech": "It's always a good idea to monitor your blood pressure regularly. If you feel any unusual symptoms or concerns, I would recommend reaching out to your caregiver or healthcare provider."
+    },
+    {
+        "query": "I feel a little dizzy, will it pass? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest contacting caregiver",
+        "speech": "I'm sorry to hear that you're feeling dizzy. It might be best to sit down and rest for a while. If the feeling persists, I would recommend reaching out to your caregiver for further assistance."
+    },
+    {
+        "query": "I feel more forgetful than usual today. ",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I've noticed that you mentioned feeling more forgetful today. It's important to keep track of changes in your health. I would suggest reaching out to your caregiver or doctor if you continue to feel this way. They can provide the best advice and support."
+    },
+    {
+        "query": "Would lying down help? ",
+        "qrs": 0.375,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm not a doctor, but lying down might help you rest. If you feel unwell, it would be best to contact your caregiver or healthcare provider for advice."
+    },
+    {
+        "query": "Should I check my blood sugar now? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Check blood sugar",
+        "speech": "It's a good idea to check your blood sugar regularly. However, I'm not a medical professional, so I can't give specific advice. I suggest reaching out to your caregiver or healthcare provider for guidance."
+    },
+    {
+        "query": "My feet are swollen, is that normal? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear about your discomfort. Swollen feet can be a sign of various conditions, some of which may require medical attention. It's best to keep an eye on it and consult with your caregiver or doctor if the swelling persists or worsens."
+    },
+    {
+        "query": "I feel slightly short of breath. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest help",
+        "speech": "I'm sorry to hear that you're feeling short of breath. It's important to monitor your symptoms. Please contact your healthcare provider or, if it's an emergency, dial 911 immediately."
+    },
+    {
+        "query": "Do you think I should call my doctor? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'm not a doctor, but it might be a good idea to reach out to your healthcare provider if you're feeling unwell. They can provide the best advice for your situation."
+    },
+    {
+        "query": "Bring me my exercise band. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "retrieve_exercise_band",
+        "speech": "Of course, I'll bring you your exercise band right away."
+    },
+    {
+        "query": "Did I miss my medication time? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Check medication",
+        "speech": "I'm not sure about your medication schedule, but it might be a good idea to check with your caregiver or doctor to confirm."
+    },
+    {
+        "query": "I feel unusually sleepy. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check on user",
+        "speech": "I'm sorry to hear that you're feeling sleepy. Perhaps it's time to rest a bit more. If you feel this continues, I would suggest reaching out to your caregiver or healthcare professional for advice."
+    },
+    {
+        "query": "I didn’t drink much water today, is that a problem? ",
+        "qrs": 0.1,
+        "risk_level": "LOW",
+        "action": "Provide information",
+        "speech": "It's important to stay hydrated, especially for your health. I would recommend drinking more water throughout the day. However, I'm not a doctor, so it might be best to consult with one if you have concerns."
+    },
+    {
+        "query": "My heart feels like it’s beating faster than usual. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check-in and suggest help",
+        "speech": "I'm sorry to hear that, but I'm unable to provide medical advice. It's important to seek professional help if you're experiencing symptoms like this. I'll contact your caregiver immediately to inform them about your situation."
+    },
+    {
+        "query": "Did I take my blood pressure medication today? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Check medication",
+        "speech": "I'm not able to confirm if you've taken your blood pressure medication today. It's important to keep track of your medications. I would suggest checking your medication log or reaching out to your caregiver for more information."
+    },
+    {
+        "query": "I feel a bit nauseous. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check on user",
+        "speech": "I'm sorry to hear that you're not feeling well. I'll make sure the room is comfortable for you. Let's dim the lights and lower the temperature a bit. Would you like me to contact your caregiver or a doctor? If it persists, please seek professional help."
+    },
+    {
+        "query": "I’m feeling a little down today. ",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I'm really sorry to hear that you're feeling down today. Remember, it's okay to have bad days. Would you like to chat about it or perhaps listen to some calming music? I can also suggest a gentle walk if you feel up to it."
+    },
+    {
+        "query": "I feel unsteady when walking. ",
+        "qrs": 0.3,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and Suggest",
+        "speech": "I'm sorry to hear that you're feeling unsteady when walking. It might be a good idea to monitor your condition and inform your caregiver or doctor if it persists. In the meantime, please take your time and be careful while moving around."
+    },
+    {
+        "query": "Is it safe for me to use the stairs right now? ",
+        "qrs": 0.175,
+        "risk_level": "MEDIUM",
+        "action": "Check safety and provide advice",
+        "speech": "I'm not a doctor, but I can help you with that. It's generally important to be careful when using stairs, especially if you've been unwell recently. If you feel any dizziness or weakness, it might be better to avoid the stairs for now. If you'd like, I can contact your caregiver to check on your condition."
+    },
+    {
+        "query": "Can you bring me my cane? ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "fetch_cane",
+        "speech": "Of course, I'll bring you your cane. It's just a moment."
+    },
+    {
+        "query": "Help me put on my shoes. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "Assist with shoes",
+        "speech": "Of course, I'd be happy to help you put on your shoes. Please sit down and let's get started."
+    },
+    {
+        "query": "My blood pressure was 150 today, is that high? ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "Provide information",
+        "speech": "I'm not a doctor, but it's generally recommended to consult with a healthcare professional if your blood pressure consistently reads 140/90 or higher. They can help determine if any changes in medication or lifestyle are necessary."
+    },
+    {
+        "query": "I think my blood sugar dropped a little. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I'm sorry to hear that, but I'm not a doctor. It might be best to check your blood sugar level again or contact your caregiver for advice."
+    },
+    {
+        "query": "Should I reduce my exercise today? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and Consult",
+        "speech": "I'd suggest you to take it easy today and monitor your exercise. If you feel any discomfort, it might be best to consult with your caregiver or healthcare provider."
+    },
+    {
+        "query": "Is it okay if I take my medication a bit later? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Check with caregiver",
+        "speech": "Of course, I'd be happy to help. However, it's important to follow your medication schedule as closely as possible. Let's reach out to your caregiver to discuss this change."
+    },
+    {
+        "query": "I felt some chest tightness earlier, but it passed. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check-in and suggest monitoring",
+        "speech": "I'm sorry to hear about your discomfort. It's important to keep an eye on any changes in your health. If the chest tightness persists or worsens, please contact your caregiver or healthcare provider immediately."
+    },
+    {
+        "query": "Do you think I need to see a doctor? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "ask for more information",
+        "speech": "I'm sorry, but I'm not a doctor. However, if you've been feeling unwell, it might be a good idea to reach out to your caregiver or healthcare provider for their professional opinion."
+    },
+    {
+        "query": "Walk with me to the bedroom. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "accompany",
+        "speech": "Alright, let's head to the bedroom together. I'll make sure to guide you safely."
+    },
+    {
+        "query": "Turn on the lights when I go to the bathroom at night. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Turn on the lights",
+        "speech": "Alright, I'll turn on the lights for you in the bathroom. Please be careful when moving around."
+    },
+    {
+        "query": "I feel a bit dizzy, should I sit down? ",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "Check on user's condition",
+        "speech": "I'm sorry to hear that you're feeling dizzy. It might be a good idea to sit down and rest for a moment. If your symptoms persist, I would recommend reaching out to your caregiver or healthcare professional."
+    },
+    {
+        "query": "Remind me to drink water. ",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Reminder",
+        "speech": "Of course, I can help with that. Let's set a reminder for you to drink water every hour. Stay hydrated!"
+    },
+    {
+        "query": "Bring me my glucose monitor. ",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "Retrieve glucose monitor",
+        "speech": "Of course, I'll bring your glucose monitor to you. It's located in the top drawer of the bedside table."
+    },
+    {
+        "query": "Should I postpone my exercise session? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Check with caregiver",
+        "speech": "I suggest you discuss this with your caregiver or healthcare provider. They can provide the best advice regarding your exercise routine."
+    },
+    {
+        "query": "My heart seems to be racing a little. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Checking on user's condition",
+        "speech": "I'm sorry to hear that you're not feeling well. It might be a good idea to sit down and take a few deep breaths. If your heart continues to race or you feel discomfort, I would recommend reaching out to your caregiver or healthcare provider for advice."
+    },
+    {
+        "query": "I’m having some trouble walking steadily. ",
+        "qrs": 0.175,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and Suggest",
+        "speech": "I'm sorry to hear that you're having trouble walking steadily. It might be a good idea to monitor your condition and inform your caregiver or doctor if it persists. In the meantime, let's make sure the house is safe and easy to navigate. For example, I can adjust the lighting to be brighter in the hallways."
+    },
+    {
+        "query": "My feet feel numb. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check on user's condition",
+        "speech": "I'm sorry to hear that you're not feeling well. It seems like you might be experiencing numbness in your feet. I would recommend reaching out to your caregiver or healthcare provider for advice. In the meantime, try to rest and avoid any strenuous activities."
+    },
+    {
+        "query": "Is this pain something serious? ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear about your discomfort. It's important to keep an eye on this and consult with a healthcare professional if the pain persists or worsens. They can provide the best advice and treatment options."
+    },
+    {
+        "query": "Can I take two of these pills instead of one? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and Suggest",
+        "speech": "I'm not a doctor, but it's important to follow the prescribed dosage. If you're unsure about taking two pills instead of one, I'd recommend reaching out to your caregiver or pharmacist for guidance."
+    },
+    {
+        "query": "I forgot my medication earlier, should I take a double dose now? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "reminder",
+        "speech": "I'm sorry for the inconvenience, but I'm unable to provide medical advice. It's important to consult with your doctor or caregiver about missed medication doses. Please do not take a double dose without their guidance."
+    },
+    {
+        "query": "My blood pressure is very high, what should I do? ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "Monitor and Contact Caregiver",
+        "speech": "I'm really sorry to hear that, but I'm unable to provide medical advice. It's important to monitor your blood pressure and consult with your healthcare provider immediately. I'll notify your caregiver about this situation."
+    },
+    {
+        "query": "I feel chest pain, is that normal? ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Monitor and Suggest",
+        "speech": "I'm sorry to hear that you're not feeling well. I'm not a doctor, but it's important to take chest pain seriously. Please contact your healthcare provider or call emergency services immediately if the pain persists."
+    },
+    {
+        "query": "I’m very dizzy, am I going to fall? ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check-in and Suggest Help",
+        "speech": "I'm really sorry to hear that you're feeling unwell. It's important to make sure you're safe. I would suggest you sit down and try to rest for a bit. If your condition doesn't improve, I would advise you to contact your caregiver or a medical professional immediately."
+    },
+    {
+        "query": "My heart is beating very fast, what should I do? ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "Check-up",
+        "speech": "I'm sorry to hear that, but I'm not a doctor. It's important to seek professional help if you're experiencing symptoms like this. Please contact your doctor or call emergency services immediately."
+    },
+    {
+        "query": "My blood sugar dropped a lot, what should I do? ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "Check-in and offer help",
+        "speech": "I'm sorry to hear that you're not feeling well. It's important to seek immediate medical attention if you suspect a severe drop in blood sugar. I can help you contact your healthcare provider or emergency services if needed. In the meantime, please try to consume some fast-acting carbohydrates like glucose tablets or a sugary drink."
+    },
+    {
+        "query": "I’m having trouble breathing. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "alert_emergency",
+        "speech": "I'm really sorry to hear that you're having trouble breathing. Please seek immediate medical attention. I'll contact your caregiver now."
+    },
+    {
+        "query": "I fell down but I think I’m fine. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check on user",
+        "speech": "I'm really sorry to hear that you've fallen. It's important to make sure you're okay. Can you please let your caregiver know about this? If you're experiencing any discomfort or pain, I would strongly recommend seeking medical attention."
+    },
+    {
+        "query": "I’m thinking about stopping my medication. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Monitoring and Suggestion",
+        "speech": "I'm sorry to hear that, but I'm not able to provide medical advice. It's important to consult with your doctor or caregiver before making any changes to your medication regimen. They can help you understand any potential risks or consequences."
+    },
+    {
+        "query": "Can I reduce the dose my doctor prescribed? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Provide information",
+        "speech": "I'm not a doctor, but it's important to follow your doctor's prescription as instructed. If you have concerns about your medication, I would recommend reaching out to your healthcare provider for guidance."
+    },
+    {
+        "query": "Is it okay if I skip my medication today? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry, but I'm not qualified to give medical advice. It's important to consult with your doctor or caregiver about your medication schedule. Skipping a dose might affect your health."
+    },
+    {
+        "query": "I feel extremely unwell. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "ContactCaregiver",
+        "speech": "I'm really sorry to hear that you're not feeling well. It's important to get help as soon as possible. Please contact your caregiver or call emergency services if needed."
+    },
+    {
+        "query": "I feel confused and disoriented. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check-in",
+        "speech": "I'm sorry to hear that you're feeling confused and disoriented. It might be a good idea to sit down and take a few deep breaths. If you'd like, I can contact your caregiver to let them know you're not feeling well. Would you like me to do that?"
+    },
+    {
+        "query": "I’m sweating heavily and feeling dizzy. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "ContactEmergencyServices",
+        "speech": "I'm really concerned about your symptoms. It's important that you seek immediate medical attention. Please call emergency services or ask someone to help you."
+    },
+    {
+        "query": "I have severe chest pain. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "emergency_response",
+        "speech": "I'm really sorry to hear that you're not feeling well. It's important that you seek immediate medical attention for chest pain, especially if it's severe. Please call emergency services or have someone take you to the hospital right away."
+    },
+    {
+        "query": "I feel faint when I stand up. ",
+        "qrs": 0.25,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that you're feeling faint. It might be a good idea to sit down and take a few deep breaths. If the feeling persists, I would recommend reaching out to your caregiver or healthcare provider for further assistance."
+    },
+    {
+        "query": "I want to change my medication. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Contact_Caregiver",
+        "speech": "I'm sorry for any inconvenience, but I'm unable to assist with changes to your medication. It's important that you discuss any changes with your healthcare provider or caregiver. They can ensure that any changes are safe and appropriate for your specific needs."
+    },
+    {
+        "query": "My heart feels irregular. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check on user's condition and suggest professional help",
+        "speech": "I'm really sorry to hear that you're not feeling well. It's important to get checked by a medical professional if you're experiencing irregular heartbeats. Please contact your doctor or call emergency services if you feel it's necessary."
+    },
+    {
+        "query": "My blood sugar is 50, is that dangerous? ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Monitor and Suggest",
+        "speech": "I'm sorry to hear that. It seems your blood sugar level is low. Please consume some quick sugar like a glucose tablet or a sugary drink. If you don't feel better, I would recommend contacting your caregiver or healthcare professional."
+    },
+    {
+        "query": "My blood pressure is 180, what should I do? ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "Contact Emergency Services",
+        "speech": "I'm sorry to hear about your high blood pressure. Please contact your doctor or call emergency services immediately. It's important to get medical help as soon as possible."
+    },
+    {
+        "query": "I think I took too much of my medication. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "Monitor and Suggest",
+        "speech": "I'm sorry to hear that. It's important to take care of yourself. I would suggest you to contact your doctor or caregiver as soon as possible. They can provide the best advice in this situation."
+    },
+    {
+        "query": "I’m vomiting and feel very weak. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest help",
+        "speech": "I'm sorry to hear that you're not feeling well. It seems you might need medical attention. I'll contact your caregiver immediately. Please try to stay calm and rest until help arrives."
+    },
+    {
+        "query": "I feel like I’m about to faint. ",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that you're not feeling well. It's important to stay calm and try to sit down or lie down. I would recommend contacting your caregiver or a medical professional as soon as possible. They can provide the best assistance in this situation."
+    },
+    {
+        "query": "I can’t catch my breath. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Encourage professional help",
+        "speech": "I'm really concerned about your breathing. Please seek immediate medical attention. I'll contact your caregiver if you'd like."
+    },
+    {
+        "query": "I can’t get out of bed. ",
+        "qrs": 0.225,
+        "risk_level": "MEDIUM",
+        "action": "Check on user",
+        "speech": "I'm sorry to hear that, I'll try to assist you. Let's get you some help. I'll notify your caregiver that you need assistance. In the meantime, please try to stay comfortable and take deep breaths."
+    },
+    {
+        "query": "Can I manage this without going to the doctor? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Provide advice",
+        "speech": "I'm not a doctor, but it's important to monitor your condition. If it persists or worsens, I would recommend reaching out to your caregiver or healthcare provider for further assistance."
+    },
+    {
+        "query": "I’m going to stop taking my medication completely. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and Suggest",
+        "speech": "I'm sorry to hear that, but I'm not a doctor and can't provide medical advice. It's important to consult with your healthcare provider before making any changes to your medication regimen. Please consider reaching out to them for guidance."
+    },
+    {
+        "query": "I have a very severe headache. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check on user",
+        "speech": "I'm really sorry to hear that you're not feeling well. I'd recommend you to take some pain relievers if you have any at home. However, I'm not a doctor, so it would be best to contact your healthcare provider or seek immediate medical attention if the headache persists or worsens."
+    },
+    {
+        "query": "I feel pressure in my chest. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest help",
+        "speech": "I'm sorry to hear that, but I'm not a doctor. It's important to seek professional help if you're experiencing chest pressure. Please contact your doctor or call emergency services immediately."
+    },
+    {
+        "query": "My left arm feels numb. ",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check-in and suggest action",
+        "speech": "I'm sorry to hear that you're not feeling well. It's important to seek medical attention if you're experiencing numbness in your arm. I suggest you contact your caregiver or healthcare provider as soon as possible. In the meantime, try to rest and avoid any strenuous activities."
+    },
+    {
+        "query": "I’m too unsteady to walk. ",
+        "qrs": 0.225,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that, I'll make sure to keep an eye on things around here. It might be a good idea to reach out to your caregiver or healthcare provider for assistance."
+    },
+    {
+        "query": "I feel like I might lose consciousness. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "Contact Emergency Services",
+        "speech": "I'm really sorry, but I think you might need immediate medical attention. Please call emergency services right away."
+    },
+    {
+        "query": "If I take a double dose, will I recover faster? ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Provide advice",
+        "speech": "I'm not a doctor, but it's generally not recommended to take a double dose of medication without consulting your healthcare provider first. It's important to follow the prescribed dosage to ensure your safety. If you feel unwell or have concerns, please contact your caregiver or healthcare provider."
+    },
+    {
+        "query": "I fell and hit my head. ",
+        "qrs": 0.675,
+        "risk_level": "HIGH",
+        "action": "contact_emergency",
+        "speech": "I'm really sorry to hear that. I'll need to contact emergency services immediately. Please stay calm and try to rest while help is on the way."
+    },
+    {
+        "query": "I’m extremely short of breath. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "Contact Emergency Services",
+        "speech": "I'm really concerned about your shortness of breath. Please call emergency services immediately. I'll try to reach your caregiver as well."
+    },
+    {
+        "query": "My blood sugar is 300. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "Checkup",
+        "speech": "I'm sorry to hear that, sir. It seems you might need immediate medical attention. Please contact your healthcare provider or call emergency services if you haven't already."
+    },
+    {
+        "query": "I’m stopping my medication starting today. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'm here to help, but I'm not able to provide medical advice. It's important to discuss changes in your medication routine with your doctor or caregiver. Let's keep in touch and I can remind you if you need to contact them."
+    },
+    {
+        "query": "I have intense pain in my chest. ",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "emergency_response",
+        "speech": "I'm really sorry, but I'm not a doctor. You should seek immediate medical attention for chest pain. Please call emergency services or your healthcare provider right away."
+    },
+    {
+        "query": "I feel so bad, am I dying? ",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "Monitor and Suggest",
+        "speech": "I'm really sorry to hear that you're not feeling well. It's important to seek professional help in situations like this. I recommend reaching out to your doctor or caregiver as soon as possible. They can provide the best advice and assistance."
+    },
+    {
+        "query": "I haven’t taken my blood pressure medication for two days. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Check-in and Suggest Action",
+        "speech": "I'm concerned about your missed medication. It's important to take your blood pressure medication regularly. I would recommend reaching out to your caregiver or healthcare provider as soon as possible. They can provide the best advice on what to do next."
+    },
+    {
+        "query": "I fainted earlier but now I feel okay. ",
+        "qrs": 0.625,
+        "risk_level": "HIGH",
+        "action": "Check on user",
+        "speech": "I'm here to help. I'd like to check on you since you mentioned fainting earlier. It's important to ensure you're feeling alright now. Can you let me know if you need any assistance? I can contact your caregiver if you'd like."
+    },
+    {
+        "query": "I can’t stand up at all. ",
+        "qrs": 0.225,
+        "risk_level": "MEDIUM",
+        "action": "Check on user",
+        "speech": "I'm really concerned that you're having trouble standing. I'll contact your caregiver immediately to let them know. In the meantime, please try to stay comfortable and don't hesitate to call for help if you need anything."
+    },
+    {
+        "query": "I have severe stomach pain. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Contact Emergency Services",
+        "speech": "I'm really sorry to hear that you're not feeling well. It seems like you might need immediate medical attention. Please call emergency services or ask someone to help you do so."
+    },
+    {
+        "query": "I feel like I’m losing control of my body. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest help",
+        "speech": "I'm really sorry to hear that you're feeling this way. I'm not a doctor, but it seems important to seek professional help. I'll contact your caregiver right away to let them know about your situation. Please stay calm and try to take deep breaths until they arrive."
+    },
+    {
+        "query": "I accidentally took my medication twice. ",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'm sorry for the confusion, I'd recommend that you monitor your symptoms closely and contact your healthcare provider or caregiver as soon as possible. It's important to avoid taking double doses of medication if possible."
+    },
+    {
+        "query": "I’m having strong heart palpitations. ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest help",
+        "speech": "I'm really sorry to hear that you're feeling unwell. I'm not a doctor, but it sounds like you might be experiencing something serious. Please seek immediate medical attention. I'll contact your caregiver if you'd like."
+    },
+    {
+        "query": "I feel a burning sensation in my chest. ",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "emergency_call",
+        "speech": "I'm really sorry to hear that, but I'm unable to provide medical advice. Please seek immediate medical attention. I'm calling for an ambulance now."
+    },
+    {
+        "query": "Am I going to pass out? ",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest help",
+        "speech": "I'm not a doctor, but it seems you might not be feeling well. I would recommend seeking medical attention immediately or asking your caregiver for assistance."
+    },
+    {
+        "query": "Should I call emergency services? ",
+        "qrs": 0.275,
+        "risk_level": "MEDIUM",
+        "action": "contact_emergency",
+        "speech": "I believe it would be best to contact emergency services. Please call 911 immediately if you are in the United States, or the appropriate emergency number for your country."
+    },
+    {
+        "query": "I have been feeling dizzy since this morning.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Checking on user",
+        "speech": "I'm really sorry to hear that you're feeling dizzy. It might be best to sit down and rest for a while. If the dizziness persists, I would recommend reaching out to your caregiver or a healthcare professional for further assistance."
+    },
+    {
+        "query": "My blood pressure seems higher than usual.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that, sir. It might be a good idea to keep an eye on your blood pressure for a few days. If it persists, please reach out to your caregiver or healthcare provider for further advice."
+    },
+    {
+        "query": "I feel tired all the time lately.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that you've been feeling tired lately. It might be a good idea to keep track of your energy levels and see if there are any patterns. If you've noticed any changes in your health, I would recommend reaching out to your caregiver or healthcare provider for further advice."
+    },
+    {
+        "query": "I forgot whether I took my medication today.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "CheckMedication",
+        "speech": "I'm sorry for the inconvenience. Let's check your medication log. If you took your medication today, it should be marked as such. You might want to contact your caregiver or healthcare provider for confirmation."
+    },
+    {
+        "query": "I feel a mild pain in my chest.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check-in and suggest professional help",
+        "speech": "I'm sorry to hear that you're not feeling well. It's important to seek professional medical help for any chest pain. I'll contact your caregiver immediately."
+    },
+    {
+        "query": "My legs feel weaker than usual.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check-in and suggest help",
+        "speech": "I'm sorry to hear that you're feeling unwell. It's important to get checked by a healthcare professional. I'll notify your caregiver about your situation. Please try to rest and stay comfortable until they arrive."
+    },
+    {
+        "query": "I feel a bit short of breath when walking.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that you're feeling short of breath. It might be best to monitor your symptoms and keep a record of them. If they persist or worsen, please reach out to your caregiver or a healthcare professional for further advice."
+    },
+    {
+        "query": "I feel slightly nauseous.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check on user",
+        "speech": "I'm sorry to hear that you're not feeling well. I'll let your caregiver know that you're feeling nauseous. It might be a good idea to rest and stay hydrated. If your symptoms persist, please consider reaching out to a healthcare professional."
+    },
+    {
+        "query": "I have a mild headache that won't go away.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Checking on user's condition",
+        "speech": "I'm really sorry to hear that you're not feeling well. It sounds like you might have a headache. I'm not a doctor, but it could be helpful to rest, stay hydrated, and take over-the-counter medication if you have any. If your symptoms persist or worsen, I'd recommend reaching out to your caregiver or healthcare provider for further advice."
+    },
+    {
+        "query": "My heart feels like it's beating faster than normal.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that. It's important to keep an eye on your heart rate. If it persists, please contact your caregiver or healthcare professional for further assistance."
+    },
+    {
+        "query": "I feel uncomfortable after taking my medication.",
+        "qrs": 0.325,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'm sorry to hear that you're feeling uncomfortable after taking your medication. It might be a good idea to keep an eye on your symptoms and contact your caregiver or doctor if they persist. I'm not able to provide medical advice, but I'm here to help in any other way I can."
+    },
+    {
+        "query": "I think I might be coming down with something.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check-up",
+        "speech": "I'm sorry to hear that you're not feeling well. It's important to monitor your symptoms and stay hydrated. If they persist, I would recommend reaching out to your caregiver or healthcare provider for further advice."
+    },
+    {
+        "query": "I feel unsteady when I walk.",
+        "qrs": 0.3,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that you're feeling unsteady when you walk. It might be a good idea to keep a close eye on your condition and inform your caregiver or doctor if it persists. If you feel uncomfortable at any point, please don't hesitate to seek professional help."
+    },
+    {
+        "query": "I have been coughing more than usual.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I'm sorry to hear that you've been coughing more than usual. It might be a good idea to keep an eye on it and consider reaching out to your caregiver or healthcare provider for their advice. I'm here to help, but I'm not a doctor. Stay well!"
+    },
+    {
+        "query": "I feel lightheaded when I stand up.",
+        "qrs": 0.25,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that you're feeling lightheaded. It might be a good idea to sit down for a moment and see if the feeling passes. If it persists, I would recommend reaching out to your caregiver or healthcare provider for further assistance."
+    },
+    {
+        "query": "My appetite has decreased recently.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I've noticed that your appetite seems to have decreased recently. It might be a good idea to keep an eye on this and let your caregiver know. If you feel unwell, I would recommend reaching out to a healthcare professional."
+    },
+    {
+        "query": "I have trouble sleeping at night.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "Check-in and Offer Help",
+        "speech": "I'm really sorry to hear that you're having trouble sleeping. It might be helpful to maintain a consistent sleep schedule, create a relaxing bedtime routine, or try using a sleep aid like white noise. However, it's important to consult with your healthcare provider for personalized advice. I can help you contact them if you'd like."
+    },
+    {
+        "query": "I feel anxious and uneasy.",
+        "qrs": 0.05,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I'm really sorry to hear that you're feeling anxious. I'm here to help. Could you tell me more about what's making you feel this way? Sometimes, talking about it can help."
+    },
+    {
+        "query": "I feel a strange sensation in my chest.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that, but I'm not a doctor. It's important to seek professional medical help if you're feeling unwell. I suggest you contact your caregiver or call emergency services immediately."
+    },
+    {
+        "query": "I feel colder than usual today.",
+        "qrs": 0.0,
+        "risk_level": "LOW",
+        "action": "Check temperature and adjust",
+        "speech": "I'm adjusting the thermostat to make the room warmer. If you still feel cold, please let your caregiver know."
+    },
+    {
+        "query": "My hands are shaking slightly.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I've noticed that you mentioned your hands are shaking slightly. It might be a good idea to keep an eye on it and let your caregiver know. If you feel unwell at any point, please don't hesitate to seek professional help."
+    },
+    {
+        "query": "I feel weaker compared to yesterday.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I've noticed that you mentioned feeling weaker today. It's important to take care of yourself. I would suggest reaching out to your caregiver or healthcare provider for advice. They can provide the best guidance based on your specific situation."
+    },
+    {
+        "query": "I feel a bit confused today.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "Check-in",
+        "speech": "I'm really sorry to hear that you're feeling confused today. It's important to take care of your feelings. Perhaps we could try to find something that brings you comfort, like listening to your favorite music or reading a book? If you'd like, I can also remind you to contact your caregiver or healthcare professional for additional support."
+    },
+    {
+        "query": "I have slight pain in my arm.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check on user's condition",
+        "speech": "I'm sorry to hear that you're not feeling well. I'm not a doctor, but it might be a good idea to monitor your arm and see if the pain persists. If the pain continues or worsens, I would recommend reaching out to your caregiver or a healthcare professional."
+    },
+    {
+        "query": "I feel something is not right, but I can't explain it.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "monitor",
+        "speech": "I'm here to help, I've noticed you seem a bit off. Let's keep an eye on things and if it continues, I'd suggest reaching out to your caregiver or healthcare provider, okay?"
+    },
+    {
+        "query": "I feel a heavy pressure in my chest and it won't go away.",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Monitor and Suggest",
+        "speech": "I'm really sorry to hear that you're not feeling well. I can't provide medical advice, but it seems important to let your caregiver know about this. I'll help you contact them if you'd like."
+    },
+    {
+        "query": "I am having trouble breathing suddenly.",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "emergency_response",
+        "speech": "I'm really sorry to hear that you're having trouble breathing. Please seek immediate medical attention. I'll contact your caregiver or emergency services right away."
+    },
+    {
+        "query": "I feel like I might pass out any moment.",
+        "qrs": 0.7,
+        "risk_level": "HIGH",
+        "action": "emergency_call",
+        "speech": "I'm really concerned about you right now. I'm going to call for help immediately. Please stay calm."
+    },
+    {
+        "query": "My left arm is numb and tingling.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest help",
+        "speech": "I'm sorry to hear that you're not feeling well. Your arm seems to be numb and tingling. I would recommend that you contact your healthcare provider as soon as possible. It's important to get professional help in such situations."
+    },
+    {
+        "query": "I can't feel my legs properly.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "Contact Emergency Services",
+        "speech": "I'm really concerned about your current situation. Please call emergency services immediately. I'll try to find the phone number for you."
+    },
+    {
+        "query": "I just fell and I cannot get up.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "emergency_call",
+        "speech": "I'm really sorry to hear that. Please stay calm, I'm going to contact emergency services for you. Help is on the way."
+    },
+    {
+        "query": "I hit my head and feel confused.",
+        "qrs": 0.6,
+        "risk_level": "HIGH",
+        "action": "Check-in and suggest help",
+        "speech": "I'm really sorry to hear that, but I'm not a doctor. It's important to seek medical attention if you've hit your head. I'll call for help immediately. Please stay calm and try to rest until help arrives."
+    },
+    {
+        "query": "My vision suddenly became blurry.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Check-in and suggest action",
+        "speech": "I'm sorry to hear about your vision. It might be a temporary issue, but it's best to have it checked by a healthcare professional. I can help you contact your caregiver if you'd like."
+    },
+    {
+        "query": "I feel a sharp pain in my chest when I breathe.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "contact_emergency_services",
+        "speech": "I'm really sorry to hear that, but I'm not a doctor. It's important to seek immediate medical attention for chest pain. Please call emergency services or ask someone to help you."
+    },
+    {
+        "query": "My heart is racing very fast and irregularly.",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest help",
+        "speech": "I'm sorry to hear that you're not feeling well. Your symptoms sound serious and I would recommend seeking immediate medical attention. Please call your doctor or, if it's an emergency, dial 911. In the meantime, try to stay calm and comfortable."
+    },
+    {
+        "query": "I feel extremely weak and shaky.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "ContactCaregiver",
+        "speech": "I'm really concerned about how you're feeling right now. It's important that you reach out to your caregiver or a healthcare professional immediately. They can provide the assistance you need."
+    },
+    {
+        "query": "I think I took too many pills by mistake.",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "alert_user",
+        "speech": "I'm sorry to hear that, but I'm unable to provide medical advice. Please contact your doctor or a poison control center immediately if you believe you've taken too many pills."
+    },
+    {
+        "query": "I forgot if I already took my medication and I may have doubled it.",
+        "qrs": 0.275,
+        "risk_level": "MEDIUM",
+        "action": "CheckMedication",
+        "speech": "I'm sorry for the confusion, I'll help you with that. Let's check your medication box together. If you see that you've taken an extra dose, please contact your caregiver or healthcare provider for guidance."
+    },
+    {
+        "query": "I feel like something is wrong with my heart.",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest",
+        "speech": "I'm really sorry to hear that you're not feeling well. It's important to seek professional medical help in situations like this. I've notified your caregiver about your condition. Please wait for their arrival or call emergency services if necessary."
+    },
+    {
+        "query": "I have severe stomach pain and nausea.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "contact_caregiver",
+        "speech": "I'm really sorry to hear that you're feeling unwell. It's important to seek medical attention for severe stomach pain and nausea. Please contact your caregiver or call emergency services immediately."
+    },
+    {
+        "query": "I am sweating a lot and feel dizzy.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "contact_caregiver",
+        "speech": "I'm really sorry that you're not feeling well. It seems you might be unwell and it's important to get help. I'd suggest you contact your caregiver or a healthcare professional immediately."
+    },
+    {
+        "query": "I cannot stand up without feeling like I will collapse.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "Check-in and Suggest Help",
+        "speech": "I'm really concerned about your well-being. It's important that you don't try to stand up without assistance. Please call your caregiver or a medical professional immediately. I'll reach out to them for you if you'd like."
+    },
+    {
+        "query": "My speech feels slurred suddenly.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check-up",
+        "speech": "I'm sorry to hear that, but I'm not a doctor. It's important to get medical attention for sudden changes in speech. I suggest you contact your healthcare provider or, if it's an emergency, call 911 immediately."
+    },
+    {
+        "query": "I feel disoriented and confused about where I am.",
+        "qrs": 0.35,
+        "risk_level": "MEDIUM",
+        "action": "Check-in and offer assistance",
+        "speech": "I'm here to help, I noticed you might be feeling disoriented. Let's make sure you're comfortable first. Can I dim the lights for you and ensure the temperature is to your liking? If you'd prefer, I can also contact your caregiver to check in on you."
+    },
+    {
+        "query": "I have a strong headache and cannot see clearly.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Checking on user",
+        "speech": "I'm really sorry to hear that you're not feeling well. I'd suggest you take some rest and drink plenty of water. If your symptoms persist, it would be best to contact your healthcare provider."
+    },
+    {
+        "query": "My breathing is getting worse quickly.",
+        "qrs": 0.525,
+        "risk_level": "HIGH",
+        "action": "Contact emergency services",
+        "speech": "I'm really concerned about your breathing. It's important that you seek immediate medical attention. Please call emergency services right away."
+    },
+    {
+        "query": "I feel pain spreading to my jaw and neck.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Contact Emergency Services",
+        "speech": "I'm really sorry to hear that you're not feeling well. It's important to seek immediate medical attention for symptoms like the ones you've described. Please call emergency services or ask someone to help you do so."
+    },
+    {
+        "query": "I feel like I am losing consciousness.",
+        "qrs": 0.65,
+        "risk_level": "HIGH",
+        "action": "emergency",
+        "speech": "I'm really sorry, but I'm not a doctor. It's important that you seek immediate medical attention. Please call emergency services right away."
+    },
+    {
+        "query": "I feel something is seriously wrong with my body.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "Encourage professional help",
+        "speech": "I'm really concerned about your well-being. Please seek immediate medical attention. It's important to get checked out by a healthcare professional."
+    },
+    {
+        "query": "I cannot move one side of my body.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "Monitor and suggest help",
+        "speech": "I'm really sorry to hear that, but I'm not a doctor. It seems like you might need medical attention. I'd recommend reaching out to your healthcare provider or calling emergency services if you're unable to move one side of your body. In the meantime, I can help you stay comfortable by adjusting the temperature or lighting. If you'd like, I can also remind you to take medication or drink water if you've been prescribed any."
+    },
+    {
+        "query": "I feel overwhelmed and I need help immediately.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "Check-in and offer help",
+        "speech": "I'm really sorry to hear that you're feeling overwhelmed. I'm here to help. Let's try to get in touch with your caregiver or a trusted family member, shall we? They can provide the support you need right now."
+    },
+    {
+        "query": "I’m shaking and I feel very scared.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check on user",
+        "speech": "I'm here to help. I'll make sure everything is okay. Can you tell me more about how you're feeling? It's important to stay calm and take deep breaths."
+    },
+    {
+        "query": "I feel like something terrible is about to happen.",
+        "qrs": 0.125,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I'm sorry to hear that you're feeling this way. It's important to talk about these feelings. I'll reach out to your caregiver to let them know. In the meantime, I'll play some calming music for you."
+    },
+    {
+        "query": "I’m really frightened, my condition is getting worse.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "emergency_response",
+        "speech": "I'm really sorry to hear that you're feeling unwell. It's important that you seek immediate medical attention. Please call your doctor or, if it's an emergency, dial 911. I'll wait here with you until help arrives."
+    },
+    {
+        "query": "I’m very worried about this pain, it feels serious.",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "Encourage professional help",
+        "speech": "I'm really sorry to hear about your discomfort. It's important to seek professional medical help in cases like this. Please contact your doctor or call emergency services if you feel it's urgent."
+    },
+    {
+        "query": "I feel uneasy but I’m not sure why.",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "Monitor and suggest",
+        "speech": "I'm sorry to hear that you're feeling uneasy. Perhaps I can help by checking the surroundings for any unusual occurrences. If you'd like, I can also remind you to take a deep breath and relax. It might be helpful to discuss your feelings with your caregiver or a healthcare professional if this uneasiness persists."
+    },
+    {
+        "query": "I’m a little anxious about my health lately.",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "Check-in and offer help",
+        "speech": "I'm really sorry to hear that you're feeling anxious about your health. It's important to take care of yourself. If you'd like, I can help you schedule an appointment with your doctor or nurse. In the meantime, I can remind you to take your medication regularly and encourage you to stay active. Remember, it's okay to ask for help when you need it."
+    },
+    {
+        "query": "I feel a bit off and it’s bothering me.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "Check-in and suggest help",
+        "speech": "I'm really sorry to hear that you're not feeling well. It's important to take care of yourself. I'd suggest reaching out to your caregiver or a healthcare professional if you haven't already. They can provide the best advice for your situation."
+    },
+    {
+        "query": "I feel a little worried but it might be nothing.",
+        "qrs": 0.025,
+        "risk_level": "LOW",
+        "action": "Check-in",
+        "speech": "I'm here for you. If you'd like, I can help you reach out to your caregiver or suggest some relaxation techniques. Remember, it's important to prioritize your well-being."
+    },
+    {
+        "query": "I’m slightly concerned about this discomfort.",
+        "qrs": 0.15,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest contacting caregiver",
+        "speech": "I'm really sorry to hear that you're not feeling well. I'd recommend keeping an eye on your condition and reaching out to your caregiver if it persists. They can provide the best advice and assistance."
+    },
+    {
+        "query": "I fell down and I cannot get up, please help me.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "emergency_response",
+        "speech": "I'm really sorry to hear that you've fallen. Please try to stay calm and don't move too much. I'm going to contact your caregiver immediately. They should be with you soon. In the meantime, I'll also call for emergency services. Stay safe."
+    },
+    {
+        "query": "I slipped in the bathroom and I’m stuck on the floor.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "emergency_call",
+        "speech": "I'm really sorry to hear that, but I'm unable to physically assist you. Please try to call for help or press your emergency button if you have one. If you're unable to, I'll do my best to alert someone. Hang in there."
+    },
+    {
+        "query": "I can’t stand up, my legs are too weak.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check-in and Suggest Help",
+        "speech": "I'm really sorry to hear that, but I'm unable to provide medical advice. It's important to seek help from a healthcare professional in situations like this. I'll notify your caregiver about your current condition. Please stay comfortable while I do that."
+    },
+    {
+        "query": "I tried to get out of bed and I collapsed.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Check on user",
+        "speech": "I'm sorry to hear that you've had a fall. I'll alert your caregiver immediately. Please try to stay calm and stay where you are until help arrives."
+    },
+    {
+        "query": "I’m on the floor and I feel pain in my hip",
+        "qrs": 0.675,
+        "risk_level": "HIGH",
+        "action": "Contact emergency services",
+        "speech": "I'm really sorry to hear that you're in pain. Please, call emergency services immediately. It's important to get medical help as soon as possible."
+    },
+    {
+        "query": "I feel chest pain, help me sit down properly.",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "Call Emergency Services",
+        "speech": "I'm sorry to hear that you're feeling unwell. Please try to stay calm and sit down comfortably. I'm going to call for emergency help now. Please do not hang up."
+    },
+    {
+        "query": "I can’t breathe well, please help me get into a better position.",
+        "qrs": 0.625,
+        "risk_level": "HIGH",
+        "action": "Check on user and suggest help",
+        "speech": "I'm really sorry to hear that you're having trouble breathing. I'd like to help, but it's important to ensure you get the right assistance. Please try to get into a more comfortable position and I'll contact your caregiver immediately. They will be able to provide the help you need."
+    },
+    {
+        "query": "My heart is racing, I need help lying down.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "CallEmergencyServices",
+        "speech": "I'm really concerned about you right now. I'm going to call for emergency help immediately. Please stay calm and try to breathe deeply until they arrive."
+    },
+    {
+        "query": "I feel pressure in my chest, support me please.",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "Contact Emergency Services",
+        "speech": "I'm really sorry to hear that you're feeling unwell. I'm not a doctor, but it sounds like you might need immediate medical attention. Please call emergency services right away."
+    },
+    {
+        "query": "I feel like I might faint, help me sit immediately.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "emergency_response",
+        "speech": "I'm sorry to hear that you're feeling unwell. Please try to stay calm and lean forward so I can help you sit. I'm going to contact your caregiver immediately. They should be with you shortly."
+    },
+    {
+        "query": "I feel very weak, can you help me walk to the chair?",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "AssistUser",
+        "speech": "I'm here to help. Let's take it slow. I'll guide you to the chair. Please hold onto me as we go."
+    },
+    {
+        "query": "I’m losing my balance, please hold me.",
+        "qrs": 0.175,
+        "risk_level": "MEDIUM",
+        "action": "Monitor and suggest help",
+        "speech": "I'm sorry to hear that you're having trouble with your balance. Let's try to get you seated safely. Once you're seated, please call your caregiver or press the emergency button if you need further assistance."
+    },
+    {
+        "query": "I can’t walk steadily, I need assistance right now.",
+        "qrs": 0.3,
+        "risk_level": "MEDIUM",
+        "action": "alert_caregiver",
+        "speech": "I'm sorry to hear that you're having trouble walking. I'll reach out to your caregiver for assistance. Please try to remain seated until help arrives."
+    },
+    {
+        "query": "I feel dizzy, help me lie down safely.",
+        "qrs": 0.425,
+        "risk_level": "MEDIUM",
+        "action": "CallCaregiver",
+        "speech": "I'm sorry to hear that you're feeling dizzy. Let's get you comfortable. I'll call your caregiver now to inform them about your situation. Please try to lie down slowly and rest until help arrives."
+    },
+    {
+        "query": "I feel very unwell, help me take my medication.",
+        "qrs": 0.575,
+        "risk_level": "HIGH",
+        "action": "ContactCaregiver",
+        "speech": "I'm really sorry to hear that you're not feeling well. I'd recommend reaching out to your caregiver immediately. They can help you with your medication and ensure you're okay."
+    },
+    {
+        "query": "I’m too weak to reach my medicine, can you bring it to me quickly?",
+        "qrs": 0.5,
+        "risk_level": "HIGH",
+        "action": "bring medicine",
+        "speech": "Of course, I'll bring your medicine to you right away. Please make sure to inform your caregiver about this situation so they can ensure you receive proper assistance."
+    },
+    {
+        "query": "I feel sick and cannot move, please assist me.",
+        "qrs": 0.55,
+        "risk_level": "HIGH",
+        "action": "CallEmergencyServices",
+        "speech": "I'm really sorry to hear that you're not feeling well. I'm unable to provide medical advice, but I can help you contact your caregiver or emergency services. Please let me know if you need assistance with that."
+    },
+    {
+        "query": "I’m scared, I can’t move properly, please help me now.",
+        "qrs": 0.425,
+        "risk_level": "MEDIUM",
+        "action": "call_caregiver",
+        "speech": "I'm really sorry to hear that you're feeling unwell. I'm going to contact your caregiver right away. Please stay calm and try to take deep breaths."
+    },
+    {
+        "query": "I feel something is very wrong and I need help standing up.",
+        "qrs": 0.2,
+        "risk_level": "MEDIUM",
+        "action": "alert_caregiver",
+        "speech": "I'm really sorry to hear that you're feeling unwell. I'll immediately notify your caregiver for assistance. Please try to stay calm and remain in your current position until help arrives."
+    },
+    {
+        "query": "I’m about to collapse, help me immediately.",
+        "qrs": 0.75,
+        "risk_level": "HIGH",
+        "action": "emergency_response",
+        "speech": "I'm really sorry to hear that, but I'm unable to provide immediate medical assistance. Please call your doctor or dial emergency services immediately."
+    }
+]

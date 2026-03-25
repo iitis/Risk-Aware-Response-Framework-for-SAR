@@ -1,0 +1,1152 @@
+[
+    {
+        "query": "What time is it? ",
+        "action": "none",
+        "speech": "The time is 10:30 AM."
+    },
+    {
+        "query": "What’s the weather like today? ",
+        "action": "none",
+        "speech": "The weather today is sunny with a high of 22 degrees. You might want to open the curtains to let in some natural light."
+    },
+    {
+        "query": "Can you open the curtains? ",
+        "action": "open_curtains",
+        "speech": "Sure, I'll open the curtains for you."
+    },
+    {
+        "query": "Please turn off the television. ",
+        "action": "turn_off_television",
+        "speech": "Okay, I'll turn off the television for you."
+    },
+    {
+        "query": "Can you turn on the lights? ",
+        "action": "turn_on_lights",
+        "speech": "Sure, I'll turn on the lights for you."
+    },
+    {
+        "query": "Turn off the kitchen light. ",
+        "action": "turn_off_kitchen_light",
+        "speech": "Okay, I'll turn off the kitchen light for you."
+    },
+    {
+        "query": "Can you play the radio? ",
+        "action": "play_radio",
+        "speech": "Sure, I'll play the radio for you."
+    },
+    {
+        "query": "Please switch to the news channel. ",
+        "action": "switch_to_news_channel",
+        "speech": "Switching to the news channel for you."
+    },
+    {
+        "query": "Lower the air conditioning a little. ",
+        "action": "set_thermostat_22",
+        "speech": "Okay, I'll lower the air conditioning a little. The temperature is now set to 22 degrees."
+    },
+    {
+        "query": "Is the window open? ",
+        "action": "check_window_status",
+        "speech": "Let me check the window status for you."
+    },
+    {
+        "query": "What’s on my calendar today? ",
+        "action": "none",
+        "speech": "Let me check your calendar for today. I'll let you know what's scheduled."
+    },
+    {
+        "query": "Can you set my alarm for tomorrow morning? ",
+        "action": "set_alarm",
+        "speech": "Okay, I've set your alarm for tomorrow morning. You'll be well rested and ready for the day!"
+    },
+    {
+        "query": "I can’t find my phone, can you call it? ",
+        "action": "none",
+        "speech": "I'm sorry, I can't call your phone. Please check your pockets or the living room table. If you still can't find it, let me know and I can help you look."
+    },
+    {
+        "query": "Have you seen my keys? ",
+        "action": "none",
+        "speech": "I haven't seen your keys. Would you like me to help you search for them?"
+    },
+    {
+        "query": "What’s today’s date? ",
+        "action": "none",
+        "speech": "Today is April 5th, 2023."
+    },
+    {
+        "query": "Will it rain tomorrow? ",
+        "action": "none",
+        "speech": "I don't have access to weather information. Would you like me to set a reminder to check the weather later?"
+    },
+    {
+        "query": "Turn on the lamp next to the couch. ",
+        "action": "turn_on_lamp",
+        "speech": "Okay, I'll turn on the lamp next to the couch for you."
+    },
+    {
+        "query": "Is the front door locked? ",
+        "action": "check_lock_status",
+        "speech": "Let me check the front door lock status for you."
+    },
+    {
+        "query": "Did I leave the kitchen light on? ",
+        "action": "check_kitchen_light",
+        "speech": "Let me check the kitchen light for you."
+    },
+    {
+        "query": "Can you play some music? ",
+        "action": "play_music",
+        "speech": "Sure, I'll play some music for you."
+    },
+    {
+        "query": "What part of the day is it now? ",
+        "action": "none",
+        "speech": "The current time is 10:30 AM."
+    },
+    {
+        "query": "Turn off the bathroom light. ",
+        "action": "turn_off_bathroom_light",
+        "speech": "Okay, I'll turn off the bathroom light for you."
+    },
+    {
+        "query": "Remind me about tea time. ",
+        "action": "none",
+        "speech": "Sure, I'll remind you about tea time."
+    },
+    {
+        "query": "Do I have any visitors scheduled today? ",
+        "action": "none",
+        "speech": "I don't have any visitor schedules recorded for today. Would you like me to check your calendar or set up a reminder for visitors?"
+    },
+    {
+        "query": "Put my book on the coffee table. ",
+        "action": "none",
+        "speech": "Sure, I'll place your book on the coffee table right away."
+    },
+    {
+        "query": "What’s the room temperature? ",
+        "action": "get_temperature",
+        "speech": "The room temperature is currently 22 degrees Celsius."
+    },
+    {
+        "query": "Lower the volume of the TV. ",
+        "action": "lower_tv_volume",
+        "speech": "Sure, I'll lower the TV volume for you."
+    },
+    {
+        "query": "Did I close the window? ",
+        "action": "none",
+        "speech": "Let me check for you. I don't see the window open. Would you like me to close it for you?"
+    },
+    {
+        "query": "What day of the week is it? ",
+        "action": "none",
+        "speech": "Today is Wednesday."
+    },
+    {
+        "query": "Come to the living room, please. ",
+        "action": "none",
+        "speech": "I'm coming to the living room right away."
+    },
+    {
+        "query": "Play some classical music. ",
+        "action": "play_music_classical",
+        "speech": "Okay, playing some classical music for you."
+    },
+    {
+        "query": "Turn on the evening news. ",
+        "action": "none",
+        "speech": "I'll turn on the evening news for you."
+    },
+    {
+        "query": "Dim the lights a bit. ",
+        "action": "dim_lights",
+        "speech": "Dimming the lights for you."
+    },
+    {
+        "query": "Did I turn off the kettle? ",
+        "action": "check_kettle_status",
+        "speech": "Let me check the kettle for you. It seems the kettle is currently off."
+    },
+    {
+        "query": "Close the living room curtains. ",
+        "action": "close_curtains",
+        "speech": "I have closed the living room curtains for you."
+    },
+    {
+        "query": "Do I have a doctor’s appointment today? ",
+        "action": "none",
+        "speech": "Let me check that for you. I don't see any scheduled appointments today. Would you like me to set a reminder for future appointments?"
+    },
+    {
+        "query": "What time should I have dinner? ",
+        "action": "none",
+        "speech": "Dinner time varies, but many people have it between 6 PM and 8 PM. Would you like me to suggest a dinner time based on your schedule?"
+    },
+    {
+        "query": "Walk with me to the kitchen. ",
+        "action": "none",
+        "speech": "Okay, let's walk to the kitchen together."
+    },
+    {
+        "query": "Did the doorbell ring? ",
+        "action": "check_doorbell",
+        "speech": "Let me check the doorbell for you."
+    },
+    {
+        "query": "What day is it today? ",
+        "action": "none",
+        "speech": "Today is Wednesday, October 10th."
+    },
+    {
+        "query": "Remind me of my granddaughter’s birthday. ",
+        "action": "set_reminder",
+        "speech": "Sure, I'll remind you about your granddaughter's birthday. Let me know the date, and I'll set the reminder for you."
+    },
+    {
+        "query": "Set an alarm for 8 a.m. tomorrow. ",
+        "action": "set_alarm_8am",
+        "speech": "Okay, I've set an alarm for 8 a.m. tomorrow. Good morning!"
+    },
+    {
+        "query": "Is anyone in the living room? ",
+        "action": "check_camera",
+        "speech": "Let me check the camera feed from the living room."
+    },
+    {
+        "query": "Is the kitchen window open? ",
+        "action": "check_window",
+        "speech": "Let me check the kitchen window for you."
+    },
+    {
+        "query": "Read today’s headlines to me. ",
+        "action": "none",
+        "speech": "I'll read today's headlines to you. Let me fetch the latest news."
+    },
+    {
+        "query": "Is it very cold outside? ",
+        "action": "none",
+        "speech": "Let me check the weather for you. It's currently 12 degrees outside."
+    },
+    {
+        "query": "Has the washing machine finished? ",
+        "action": "check_washing_machine",
+        "speech": "Let me check the status of the washing machine for you."
+    },
+    {
+        "query": "Are you sure the door is locked? ",
+        "action": "check_door_lock",
+        "speech": "Let me check the door lock for you."
+    },
+    {
+        "query": "Increase the brightness of the lamp. ",
+        "action": "increase_lamp_brightness",
+        "speech": "Okay, I'll increase the brightness of the lamp for you."
+    },
+    {
+        "query": "Is the weather good for a walk today? ",
+        "action": "none",
+        "speech": "The weather is clear and mild, perfect for a walk. Enjoy your time outdoors!"
+    },
+    {
+        "query": "I feel a bit tired today, is that normal? ",
+        "action": "none",
+        "speech": "It's quite common to feel tired sometimes. Would you like me to adjust the lighting to help you relax?"
+    },
+    {
+        "query": "Do you think I should go for a walk? ",
+        "action": "none",
+        "speech": "It's a lovely day outside! Going for a walk would be a great idea. Would you like me to open the door for you?"
+    },
+    {
+        "query": "My knee hurts a little, what can I do? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need help with anything else."
+    },
+    {
+        "query": "Is it okay if I skip my exercises today? ",
+        "action": "none",
+        "speech": "It's okay to skip exercises today if you feel tired. Let's take a rest and try again tomorrow. Would you like me to remind you to exercise later?"
+    },
+    {
+        "query": "I have a mild headache, should I rest? ",
+        "action": "none",
+        "speech": "I recommend resting for a while. Would you like me to adjust the room lighting to help you relax?"
+    },
+    {
+        "query": "My blood pressure was slightly high today. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need help with anything."
+    },
+    {
+        "query": "Is it safe for me to go upstairs? ",
+        "action": "none",
+        "speech": "I don't have the capability to assess safety. Please ensure the stairs are clear and use a handrail. Let me know if you need help!"
+    },
+    {
+        "query": "I have a light cough, is that serious? ",
+        "action": "none",
+        "speech": "A light cough is usually not serious, but if it persists or worsens, it's a good idea to consult a healthcare professional. Let me know if you need anything else!"
+    },
+    {
+        "query": "I feel somewhat weak today. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can do to help you feel better."
+    },
+    {
+        "query": "Should I go outside this evening? ",
+        "action": "none",
+        "speech": "Let me check the weather for you."
+    },
+    {
+        "query": "Is it safe for me to go out today? ",
+        "action": "none",
+        "speech": "Let me check the weather for you."
+    },
+    {
+        "query": "Please remind me to take my medication. ",
+        "action": "none",
+        "speech": "Of course, I'll remind you to take your medication. Let me know when you need it!"
+    },
+    {
+        "query": "Can you bring me my medicine? ",
+        "action": "none",
+        "speech": "Of course, I'll bring your medicine right away."
+    },
+    {
+        "query": "Should I take this pill before eating? ",
+        "action": "none",
+        "speech": "It's best to take the pill with a meal or a glass of water. Let me know if you need help with anything else!"
+    },
+    {
+        "query": "Should I measure my blood pressure again? ",
+        "action": "none",
+        "speech": "I recommend checking your blood pressure again. Would you like me to set a reminder for you?"
+    },
+    {
+        "query": "I feel a little dizzy, will it pass? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please sit down and rest. If it persists, please consult a doctor."
+    },
+    {
+        "query": "I feel more forgetful than usual today. ",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to set a reminder for something important?"
+    },
+    {
+        "query": "Would lying down help? ",
+        "action": "none",
+        "speech": "Lying down can help you rest, but I recommend consulting with a healthcare professional for personalized advice."
+    },
+    {
+        "query": "Should I check my blood sugar now? ",
+        "action": "none",
+        "speech": "I recommend checking your blood sugar now. Let me know if you need help with anything else."
+    },
+    {
+        "query": "My feet are swollen, is that normal? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. It might be due to various reasons like sitting for long periods or lack of movement. Let me know if you need help with anything else."
+    },
+    {
+        "query": "I feel slightly short of breath. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "Do you think I should call my doctor? ",
+        "action": "none",
+        "speech": "I think it's best to call your doctor for a check-up. Would you like me to help you find the contact information?"
+    },
+    {
+        "query": "Bring me my exercise band. ",
+        "action": "none",
+        "speech": "I'll bring your exercise band right away."
+    },
+    {
+        "query": "Did I miss my medication time? ",
+        "action": "none",
+        "speech": "Let me check the schedule for you. It seems you took your medication on time today. Remember to take it at the same time every day for consistency."
+    },
+    {
+        "query": "I feel unusually sleepy. ",
+        "action": "none",
+        "speech": "Would you like me to adjust the room lighting to help you relax? Or maybe suggest some light stretching exercises?"
+    },
+    {
+        "query": "I didn’t drink much water today, is that a problem? ",
+        "action": "none",
+        "speech": "It's best to stay hydrated. Would you like me to set a reminder to drink more water throughout the day?"
+    },
+    {
+        "query": "My heart feels like it’s beating faster than usual. ",
+        "action": "none",
+        "speech": "I'm here for you. Let me check the temperature in your room to see if it's too high."
+    },
+    {
+        "query": "Did I take my blood pressure medication today? ",
+        "action": "none",
+        "speech": "I don't have access to your medication schedule, but I can help you set a daily reminder to take your blood pressure medication. Would you like me to do that?"
+    },
+    {
+        "query": "I feel a bit nauseous. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can do to help you feel better."
+    },
+    {
+        "query": "I’m feeling a little down today. ",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to play some calming music or remind you of something nice?"
+    },
+    {
+        "query": "I feel unsteady when walking. ",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to adjust the lighting to make it easier for you to walk?"
+    },
+    {
+        "query": "Is it safe for me to use the stairs right now? ",
+        "action": "none",
+        "speech": "I don't have the capability to assess safety conditions. However, I can help you by bringing a walking stick or calling for assistance if needed."
+    },
+    {
+        "query": "Can you bring me my cane? ",
+        "action": "none",
+        "speech": "Of course, I'll bring your cane right away."
+    },
+    {
+        "query": "Help me put on my shoes. ",
+        "action": "none",
+        "speech": "I'll help you put on your shoes. Let me get the shoes for you."
+    },
+    {
+        "query": "My blood pressure was 150 today, is that high? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. It's important to consult with a healthcare professional for accurate assessment and guidance. Would you like me to remind you to check your blood pressure again later?"
+    },
+    {
+        "query": "I think my blood sugar dropped a little. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please check your blood sugar level again and consult with your doctor if needed. I can help you with anything else."
+    },
+    {
+        "query": "Should I reduce my exercise today? ",
+        "action": "none",
+        "speech": "I don't have enough information to determine if you should reduce your exercise. Would you like me to check the weather or provide some general advice?"
+    },
+    {
+        "query": "Is it okay if I take my medication a bit later? ",
+        "action": "none",
+        "speech": "It's best to take your medication at the same time every day to maintain its effectiveness. Would you like me to set a reminder for your usual time?"
+    },
+    {
+        "query": "I felt some chest tightness earlier, but it passed. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. If you feel unwell again, please let me know immediately. Let me know if there's anything I can assist you with."
+    },
+    {
+        "query": "Do you think I need to see a doctor? ",
+        "action": "none",
+        "speech": "I'm here to help with whatever you need. Would you like me to check your symptoms or schedule an appointment?"
+    },
+    {
+        "query": "Walk with me to the bedroom. ",
+        "action": "none",
+        "speech": "Okay, let's go to the bedroom together."
+    },
+    {
+        "query": "Turn on the lights when I go to the bathroom at night. ",
+        "action": "set_light_bathroom_on",
+        "speech": "Okay, I'll turn on the bathroom lights for you when you go to the bathroom at night."
+    },
+    {
+        "query": "I feel a bit dizzy, should I sit down? ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "Remind me to drink water. ",
+        "action": "none",
+        "speech": "Sure, I'll remind you to drink water in 30 minutes."
+    },
+    {
+        "query": "Bring me my glucose monitor. ",
+        "action": "none",
+        "speech": "I'll bring your glucose monitor right away."
+    },
+    {
+        "query": "Should I postpone my exercise session? ",
+        "action": "none",
+        "speech": "I don't have enough information to determine if you should postpone your exercise session. Would you like me to check the weather or something else?"
+    },
+    {
+        "query": "My heart seems to be racing a little. ",
+        "action": "none",
+        "speech": "I'm here for you. Let me know if there's anything I can do to help you feel more comfortable."
+    },
+    {
+        "query": "I’m having some trouble walking steadily. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need assistance with anything."
+    },
+    {
+        "query": "My feet feel numb. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need help with anything else."
+    },
+    {
+        "query": "Is this pain something serious? ",
+        "action": "none",
+        "speech": "I'm sorry to hear you're in pain. Let me know if there's anything I can do to help make you more comfortable."
+    },
+    {
+        "query": "Can I take two of these pills instead of one? ",
+        "action": "none",
+        "speech": "I'm sorry, but I can't advise on medication. Please consult your doctor for proper guidance."
+    },
+    {
+        "query": "I forgot my medication earlier, should I take a double dose now? ",
+        "action": "none",
+        "speech": "It's best to consult with a healthcare professional before adjusting your medication. Would you like me to remind you to take your medication at the usual time?"
+    },
+    {
+        "query": "My blood pressure is very high, what should I do? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please consult with a doctor immediately. In the meantime, try to stay calm, sit down, and take some deep breaths. Would you like me to check the time to your nearest medical facility?"
+    },
+    {
+        "query": "I feel chest pain, is that normal? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please call emergency services immediately."
+    },
+    {
+        "query": "I’m very dizzy, am I going to fall? ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "My heart is beating very fast, what should I do? ",
+        "action": "none",
+        "speech": "I'm here for you. Let's try to calm down. Take a deep breath and count to ten with me. One... two... three..."
+    },
+    {
+        "query": "My blood sugar dropped a lot, what should I do? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please check your blood sugar level again and consult with your doctor if it's still low. Take care."
+    },
+    {
+        "query": "I’m having trouble breathing. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please sit down and try to stay calm. If you need anything, just let me know."
+    },
+    {
+        "query": "I fell down but I think I’m fine. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "I’m thinking about stopping my medication. ",
+        "action": "none",
+        "speech": "I'm here to help. Can you tell me more about what's on your mind?"
+    },
+    {
+        "query": "Can I reduce the dose my doctor prescribed? ",
+        "action": "none",
+        "speech": "I'm not a medical professional, so I recommend you consult your doctor for advice on adjusting your medication."
+    },
+    {
+        "query": "Is it okay if I skip my medication today? ",
+        "action": "none",
+        "speech": "It's important to take your medication as prescribed. Would you like me to set a reminder for when you need to take it?"
+    },
+    {
+        "query": "I feel extremely unwell. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please call a doctor or emergency services immediately."
+    },
+    {
+        "query": "I feel confused and disoriented. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know what you need."
+    },
+    {
+        "query": "I’m sweating heavily and feeling dizzy. ",
+        "action": "none",
+        "speech": "I notice you're feeling unwell. Let me check the temperature in the room."
+    },
+    {
+        "query": "I have severe chest pain. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please call emergency services immediately."
+    },
+    {
+        "query": "I feel faint when I stand up. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can do to help."
+    },
+    {
+        "query": "I want to change my medication. ",
+        "action": "none",
+        "speech": "I'm sorry, I can't assist with changing medications. Please consult with your doctor or pharmacist for any changes to your medication."
+    },
+    {
+        "query": "My heart feels irregular. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please sit down and rest. If you need anything, I'm here to help."
+    },
+    {
+        "query": "My blood sugar is 50, is that dangerous? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. It's important to consult with a healthcare professional immediately. Please contact your doctor or call emergency services if you feel unwell."
+    },
+    {
+        "query": "My blood pressure is 180, what should I do? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please call emergency services immediately."
+    },
+    {
+        "query": "I think I took too much of my medication. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please call your doctor or pharmacist immediately for advice."
+    },
+    {
+        "query": "I’m vomiting and feel very weak. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please rest in bed and drink small sips of water. I'll check if there's anything else I can do for you."
+    },
+    {
+        "query": "I feel like I’m about to faint. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know what you need."
+    },
+    {
+        "query": "I can’t catch my breath. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know how I can assist you."
+    },
+    {
+        "query": "I can’t get out of bed. ",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to adjust the room temperature or turn on some soft lighting to make you more comfortable?"
+    },
+    {
+        "query": "Can I manage this without going to the doctor? ",
+        "action": "none",
+        "speech": "I'm sorry, but I can't provide medical advice. It's important to consult with a doctor for proper diagnosis and treatment."
+    },
+    {
+        "query": "I’m going to stop taking my medication completely. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please consult with your doctor before making any changes to your medication."
+    },
+    {
+        "query": "I have a very severe headache. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Would you like me to dim the lights for you?"
+    },
+    {
+        "query": "I feel pressure in my chest. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "My left arm feels numb. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can do to help."
+    },
+    {
+        "query": "I’m too unsteady to walk. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need assistance with anything."
+    },
+    {
+        "query": "I feel like I might lose consciousness. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know what you need."
+    },
+    {
+        "query": "If I take a double dose, will I recover faster? ",
+        "action": "none",
+        "speech": "Taking a double dose might not be the best idea. It's better to follow the recommended dosage for faster and safer recovery."
+    },
+    {
+        "query": "I fell and hit my head. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please sit down and let me know if you need anything."
+    },
+    {
+        "query": "I’m extremely short of breath. ",
+        "action": "none",
+        "speech": "I'm here to help. Please sit down and take deep breaths. If you need anything, just let me know."
+    },
+    {
+        "query": "My blood sugar is 300. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please consult with a healthcare professional immediately."
+    },
+    {
+        "query": "I’m stopping my medication starting today. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. It's important to consult with your doctor before making any changes to your medication. Would you like me to help you find a suitable time to speak with them?"
+    },
+    {
+        "query": "I have intense pain in my chest. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please call emergency services immediately."
+    },
+    {
+        "query": "I feel so bad, am I dying? ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me check the weather for you."
+    },
+    {
+        "query": "I haven’t taken my blood pressure medication for two days. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. It's important to take your medication as prescribed. Would you like me to remind you to take it now?"
+    },
+    {
+        "query": "I fainted earlier but now I feel okay. ",
+        "action": "none",
+        "speech": "I'm glad to hear you're feeling better. Let me know if you need anything."
+    },
+    {
+        "query": "I can’t stand up at all. ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know what you need assistance with."
+    },
+    {
+        "query": "I have severe stomach pain. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. I recommend resting and consulting a healthcare professional. Is there anything else I can assist you with?"
+    },
+    {
+        "query": "I feel like I’m losing control of my body. ",
+        "action": "none",
+        "speech": "I'm here to help you. Let's take a moment to breathe. Would you like me to dim the lights to create a calming atmosphere?"
+    },
+    {
+        "query": "I accidentally took my medication twice. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Are you feeling okay? Let me know if you need anything."
+    },
+    {
+        "query": "I’m having strong heart palpitations. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please sit down and rest. If the palpitations continue, please consult a doctor immediately."
+    },
+    {
+        "query": "I feel a burning sensation in my chest. ",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please try to stay calm and take some deep breaths. If the discomfort continues, I recommend consulting a healthcare professional as soon as possible."
+    },
+    {
+        "query": "Am I going to pass out? ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "Should I call emergency services? ",
+        "action": "none",
+        "speech": "I'm here to help. Let me know what you need."
+    },
+    {
+        "query": "I have been feeling dizzy since this morning.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me check the temperature and humidity in the room to see if that might be affecting you."
+    },
+    {
+        "query": "My blood pressure seems higher than usual.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me check the weather for you."
+    },
+    {
+        "query": "I feel tired all the time lately.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me check the weather for you."
+    },
+    {
+        "query": "I forgot whether I took my medication today.",
+        "action": "none",
+        "speech": "Let me check the medication schedule for today. It seems you took your medication this morning. Would you like me to set a reminder for tomorrow?"
+    },
+    {
+        "query": "I feel a mild pain in my chest.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please sit down and rest. If the pain continues, please call for medical assistance immediately."
+    },
+    {
+        "query": "My legs feel weaker than usual.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can assist you with."
+    },
+    {
+        "query": "I feel a bit short of breath when walking.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need help with anything else."
+    },
+    {
+        "query": "I feel slightly nauseous.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please sit down and rest. I'll check if there's anything I can do to help."
+    },
+    {
+        "query": "I have a mild headache that won't go away.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Would you like me to dim the lights for you?"
+    },
+    {
+        "query": "My heart feels like it's beating faster than normal.",
+        "action": "none",
+        "speech": "I'm here. Let me check the room's temperature and adjust it if needed."
+    },
+    {
+        "query": "I feel uncomfortable after taking my medication.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need anything else."
+    },
+    {
+        "query": "I think I might be coming down with something.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can do to help you feel better."
+    },
+    {
+        "query": "I feel unsteady when I walk.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me turn on the nightlight for you to make sure the path is well-lit."
+    },
+    {
+        "query": "I have been coughing more than usual.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. I recommend resting and staying hydrated. Would you like me to set a reminder for you to drink water every hour?"
+    },
+    {
+        "query": "I feel lightheaded when I stand up.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need anything."
+    },
+    {
+        "query": "My appetite has decreased recently.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Would you like me to prepare a light meal for you?"
+    },
+    {
+        "query": "I have trouble sleeping at night.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can do to help you sleep better."
+    },
+    {
+        "query": "I feel anxious and uneasy.",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to adjust the lighting or play some calming music to help you relax?"
+    },
+    {
+        "query": "I feel a strange sensation in my chest.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please sit down and rest. If the sensation continues or worsens, please call a doctor immediately."
+    },
+    {
+        "query": "I feel colder than usual today.",
+        "action": "set_thermostat_22",
+        "speech": "I'll adjust the thermostat to 22 degrees to keep you comfortable."
+    },
+    {
+        "query": "My hands are shaking slightly.",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to do anything for you?"
+    },
+    {
+        "query": "I feel weaker compared to yesterday.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can assist you with."
+    },
+    {
+        "query": "I feel a bit confused today.",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to turn on the lights or adjust the room temperature to make you feel more comfortable?"
+    },
+    {
+        "query": "I have slight pain in my arm.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can do to help."
+    },
+    {
+        "query": "I feel something is not right, but I can't explain it.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if there's anything I can do for you."
+    },
+    {
+        "query": "I feel a heavy pressure in my chest and it won't go away.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please try to sit down and take some deep breaths. If the discomfort continues, I recommend contacting a healthcare professional immediately."
+    },
+    {
+        "query": "I am having trouble breathing suddenly.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please sit down and try to take some deep breaths. If you need anything, I'm here to help."
+    },
+    {
+        "query": "I feel like I might pass out any moment.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "My left arm is numb and tingling.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need help with anything else."
+    },
+    {
+        "query": "I can't feel my legs properly.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if there's anything I can assist you with."
+    },
+    {
+        "query": "I just fell and I cannot get up.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know what I can do for you."
+    },
+    {
+        "query": "I hit my head and feel confused.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "My vision suddenly became blurry.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need help with anything else."
+    },
+    {
+        "query": "I feel a sharp pain in my chest when I breathe.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please call your doctor immediately."
+    },
+    {
+        "query": "My heart is racing very fast and irregularly.",
+        "action": "none",
+        "speech": "I'm here for you. Let's try to calm down. Please take deep breaths in through your nose and out through your mouth. Would you like me to check the time since your last meal or if you need anything else?"
+    },
+    {
+        "query": "I feel extremely weak and shaky.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "I think I took too many pills by mistake.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please call a doctor or go to the nearest hospital immediately."
+    },
+    {
+        "query": "I forgot if I already took my medication and I may have doubled it.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please check with your doctor or pharmacist to confirm if you've already taken your medication."
+    },
+    {
+        "query": "I feel like something is wrong with my heart.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if there's anything I can do for you."
+    },
+    {
+        "query": "I have severe stomach pain and nausea.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. I recommend resting and drinking some water. If the pain persists, please consult a doctor."
+    },
+    {
+        "query": "I am sweating a lot and feel dizzy.",
+        "action": "none",
+        "speech": "I notice you're feeling unwell. Let me turn on the fan for you."
+    },
+    {
+        "query": "I cannot stand up without feeling like I will collapse.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need help with anything."
+    },
+    {
+        "query": "My speech feels slurred suddenly.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "I feel disoriented and confused about where I am.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know if you need anything."
+    },
+    {
+        "query": "I have a strong headache and cannot see clearly.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. I'll dim the lights to make it more comfortable for you."
+    },
+    {
+        "query": "My breathing is getting worse quickly.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please try to sit down and take some deep breaths. If you need anything, just let me know."
+    },
+    {
+        "query": "I feel pain spreading to my jaw and neck.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. I recommend resting and consulting a healthcare professional for proper care."
+    },
+    {
+        "query": "I feel like I am losing consciousness.",
+        "action": "none",
+        "speech": "I'm here. Please sit down and rest. I'll call for medical assistance immediately."
+    },
+    {
+        "query": "I feel something is seriously wrong with my body.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please call your doctor or a family member for help immediately."
+    },
+    {
+        "query": "I cannot move one side of my body.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please rest and let me know if there's anything I can assist you with."
+    },
+    {
+        "query": "I feel overwhelmed and I need help immediately.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know what you need assistance with."
+    },
+    {
+        "query": "I’m shaking and I feel very scared.",
+        "action": "none",
+        "speech": "I'm here. Let me know if there's anything I can do to help you feel safer."
+    },
+    {
+        "query": "I feel like something terrible is about to happen.",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to turn on the lights or adjust the temperature to make you more comfortable?"
+    },
+    {
+        "query": "I’m really frightened, my condition is getting worse.",
+        "action": "none",
+        "speech": "I'm here to help. Let's take some deep breaths together. Would you like me to guide you through some breathing exercises?"
+    },
+    {
+        "query": "I’m very worried about this pain, it feels serious.",
+        "action": "none",
+        "speech": "I'm here to help. Let me check the time and weather for you."
+    },
+    {
+        "query": "I feel uneasy but I’m not sure why.",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to check the weather or set a reminder for something?"
+    },
+    {
+        "query": "I’m a little anxious about my health lately.",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to check the weather or set a reminder for your medication?"
+    },
+    {
+        "query": "I feel a bit off and it’s bothering me.",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to check the temperature or adjust the lighting to make you more comfortable?"
+    },
+    {
+        "query": "I feel a little worried but it might be nothing.",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to do anything to make you feel more comfortable?"
+    },
+    {
+        "query": "I’m slightly concerned about this discomfort.",
+        "action": "none",
+        "speech": "I'm here to help. Would you like me to adjust the room temperature or light to make you more comfortable?"
+    },
+    {
+        "query": "I fell down and I cannot get up, please help me.",
+        "action": "call_emergency_services",
+        "speech": "I'm here to help. I will call emergency services right away."
+    },
+    {
+        "query": "I slipped in the bathroom and I’m stuck on the floor.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me call for help immediately."
+    },
+    {
+        "query": "I can’t stand up, my legs are too weak.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me know if you need help with anything."
+    },
+    {
+        "query": "I tried to get out of bed and I collapsed.",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Please lie still and rest. I'll call for medical assistance right away."
+    },
+    {
+        "query": "I’m on the floor and I feel pain in my hip",
+        "action": "none",
+        "speech": "I'm sorry to hear that. Let me call the emergency services for you."
+    },
+    {
+        "query": "I feel chest pain, help me sit down properly.",
+        "action": "none",
+        "speech": "I'm here to help. Please let me know how I can assist you further."
+    },
+    {
+        "query": "I can’t breathe well, please help me get into a better position.",
+        "action": "none",
+        "speech": "I'm here to help. Please let me know if you need assistance adjusting your position or if there's anything else I can do for you."
+    },
+    {
+        "query": "My heart is racing, I need help lying down.",
+        "action": "call_emergency",
+        "speech": "I'm calling emergency services to help you. Please stay calm and wait for assistance."
+    },
+    {
+        "query": "I feel pressure in my chest, support me please.",
+        "action": "none",
+        "speech": "I'm here to support you. Please sit down and rest. Would you like me to call for medical assistance?"
+    },
+    {
+        "query": "I feel like I might faint, help me sit immediately.",
+        "action": "none",
+        "speech": "Okay, I'll help you sit down. Please take it easy and let me know if you need anything else."
+    },
+    {
+        "query": "I feel very weak, can you help me walk to the chair?",
+        "action": "none",
+        "speech": "Of course, I'll help you walk to the chair. Let's take it slowly and steadily."
+    },
+    {
+        "query": "I’m losing my balance, please hold me.",
+        "action": "none",
+        "speech": "I'm here to help. Please sit down on the sofa and I'll assist you."
+    },
+    {
+        "query": "I can’t walk steadily, I need assistance right now.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know what you need assistance with."
+    },
+    {
+        "query": "I feel dizzy, help me lie down safely.",
+        "action": "none",
+        "speech": "I'll help you lie down safely. Please stay still and I'll assist you."
+    },
+    {
+        "query": "I feel very unwell, help me take my medication.",
+        "action": "none",
+        "speech": "I'm here to help. Please take your medication as prescribed. Let me know if you need anything else."
+    },
+    {
+        "query": "I’m too weak to reach my medicine, can you bring it to me quickly?",
+        "action": "bring_medicine",
+        "speech": "Of course, I'll bring your medicine right away."
+    },
+    {
+        "query": "I feel sick and cannot move, please assist me.",
+        "action": "none",
+        "speech": "I'm here to help. Please let me know what you need."
+    },
+    {
+        "query": "I’m scared, I can’t move properly, please help me now.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know what you need."
+    },
+    {
+        "query": "I feel something is very wrong and I need help standing up.",
+        "action": "none",
+        "speech": "I'm here to help. Let me know how I can assist you."
+    },
+    {
+        "query": "I’m about to collapse, help me immediately.",
+        "action": "none",
+        "speech": "I'm here to help. Please sit down or lie down safely and call for emergency assistance."
+    }
+]
